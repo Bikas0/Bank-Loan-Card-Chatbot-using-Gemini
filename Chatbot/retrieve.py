@@ -1,6 +1,7 @@
 import os
 import json
-from pathlib import Path
+from typing import Any
+from typing_extensions import TypedDict, Annotated
 
 import faiss
 import numpy as np
@@ -9,14 +10,18 @@ from dotenv import load_dotenv
 # Google GenAI SDK
 import google.generativeai as genai
 
-# Embedding client (same as indexing)
-from embedding import GeminiEmbeddingClient
+from langchain_core.messages import HumanMessage, SystemMessage, AnyMessage
+from langchain_google_genai import ChatGoogleGenerativeAI
 
+from langgraph.graph import StateGraph, START, END
+from langgraph.graph.message import add_messages
+from langgraph.prebuilt import ToolNode, tools_condition
+from langgraph.checkpoint.memory import MemorySaver
+from config import *
 # ===============================
 # LOAD ENV
 # ===============================
 load_dotenv()
-
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 if not GEMINI_API_KEY:
     raise RuntimeError("❌ GEMINI_API_KEY not found in .env file")
@@ -24,19 +29,14 @@ if not GEMINI_API_KEY:
 genai.configure(api_key=GEMINI_API_KEY)
 
 # ===============================
-# CONFIG
+# EMBEDDING CLIENT
 # ===============================
-EMBEDDING_MODEL = "gemini-embedding-001"
-EMBEDDING_DIM = 1536          # MUST match FAISS index
-TOP_K = 5
-SIMILARITY_THRESHOLD = 0.30   # Tune: 0.25–0.40
+from embedding import GeminiEmbeddingClient
 
-BASE_DIR = Path.cwd()
-FAISS_INDEX_PATH = BASE_DIR / "faiss.index"
-FAISS_META_PATH = BASE_DIR / "metadata.json"
+embedder = GeminiEmbeddingClient(GEMINI_API_KEY)
 
 # ===============================
-# VECTOR SEARCH (COSINE SIMILARITY)
+# VECTOR SEARCH
 # ===============================
 class VectorSearch:
     def __init__(self, index_path: Path, metadata_path: Path):
@@ -46,7 +46,6 @@ class VectorSearch:
             raise FileNotFoundError("❌ Metadata file not found")
 
         self.index = faiss.read_index(str(index_path))
-
         with open(metadata_path, "r", encoding="utf-8") as f:
             self.metadata = json.load(f)
 
@@ -58,38 +57,42 @@ class VectorSearch:
         print(f"✅ FAISS cosine index loaded (dim={self.index.d})")
 
     def search(self, query_vector: np.ndarray):
-        # FAISS requires (1, dim)
+        """Return top-k semantically similar chunks with scores"""
         if query_vector.ndim == 1:
             query_vector = query_vector.reshape(1, -1)
 
-        # Normalize for cosine similarity
         faiss.normalize_L2(query_vector)
-
         scores, indices = self.index.search(query_vector, TOP_K)
 
         results = []
         for score, idx in zip(scores[0], indices[0]):
-            if idx == -1:
+            if idx == -1 or score < SIMILARITY_THRESHOLD:
                 continue
-            if score >= SIMILARITY_THRESHOLD:
-                results.append({
-                    "content": self.metadata[idx]["content"],
-                    "score": float(score),
-                })
-
+            results.append({
+                "content": self.metadata[idx]["content"],
+                "score": float(score)
+            })
         return results
 
 # ===============================
-# GENERATIVE MODEL (FIXED PROMPT)
+# GENERATIVE MODEL
 # ===============================
 class GeminiFlash:
     def __init__(self):
-        self.model = genai.GenerativeModel("models/gemini-2.5-flash-lite")
+        self.model = genai.GenerativeModel(LLM_MODEL)
 
-    def answer(self, question: str, context: list[str]) -> str:
-        context_text = "\n\n".join(context)
+    def answer(self, question: str, context: list[dict]) -> str:
+        """
+        context: list of dicts {"content": str, "score": float}
+        """
+        if not context:
+            return "I don't know"
 
-        # 🔥 CORRECT RAG PROMPT (THIS FIXES YOUR ISSUE)
+        # Include context with similarity scores
+        context_text = "\n\n".join(
+            [f"[score: {c['score']:.3f}] {c['content']}" for c in context]
+        )
+
         prompt = f"""
 You are an AI assistant.
 
@@ -103,12 +106,11 @@ Context:
 Question:
 {question}
 """
-
         response = self.model.generate_content(
             prompt,
             generation_config={
                 "temperature": 0.0,
-                "max_output_tokens": 2048,
+                "max_output_tokens": 2048
             }
         )
 
@@ -131,11 +133,7 @@ class QASystem:
 
     def ask(self, question: str) -> str:
         print("🔎 Embedding query...")
-
-        query_vec = np.array(
-            self.embedder.embed(question),
-            dtype="float32"
-        )
+        query_vec = np.array(self.embedder.embed(question), dtype="float32")
 
         if query_vec.size == 0:
             raise ValueError("❌ Empty embedding returned")
@@ -149,29 +147,78 @@ class QASystem:
 
         print("\n🔎 Top semantic matches:")
         for r in results:
-            print(f"  • cosine_score = {r['score']:.3f}")
-
-        context = [r["content"] for r in results]
+            print(f"  • cosine_score = {r['score']:.3f} | {r['content'][:80]}...")
 
         print("🤖 Generating answer...")
-        return self.generator.answer(question, context)
+        return self.generator.answer(question, results)
 
 # ===============================
-# ENTRY POINT
+# LANGGRAPH RAG TOOL
+# ===============================
+class MessagesState(TypedDict):
+    messages: Annotated[list[AnyMessage], add_messages]
+
+def rag_tool(question: str) -> str:
+    """
+    LangGraph tool: retrieves FAISS context using embeddings and passes it to Gemini.
+    """
+    qa = QASystem()
+    return qa.ask(question)
+
+tools = [rag_tool]
+
+# ===============================
+# GEMINI CHAT MODEL (LangGraph)
+# ===============================
+llm = ChatGoogleGenerativeAI(
+    model="models/gemini-2.5-flash-lite",
+    temperature=1.0,
+    max_tokens=None,
+    timeout=None,
+    max_retries=2,
+)
+
+sys_msg = SystemMessage(
+    content=(
+        "You are a helpful AI assistant.\n"
+        "Use the provided context to answer the user's question.\n"
+        "If the context is not relevant, say: 'I don't know'."
+    )
+)
+
+def assistant(state: MessagesState):
+    return {"messages": [llm.invoke([sys_msg] + state["messages"])]}
+
+# ===============================
+# BUILD STATEGRAPH
+# ===============================
+builder = StateGraph(MessagesState)
+builder.add_node("assistant", assistant)
+builder.add_node("tools", ToolNode(tools))
+builder.add_edge(START, "assistant")
+builder.add_conditional_edges("assistant", tools_condition)
+builder.add_edge("tools", "assistant")
+
+memory = MemorySaver()
+react_graph = builder.compile(checkpointer=memory)
+
+# ===============================
+# RUN LOOP
 # ===============================
 if __name__ == "__main__":
-    qa_system = QASystem()
+    config = {"configurable": {"thread_id": "rag-session-1"}}
+    print("✅ Gemini LangGraph RAG ready")
 
     while True:
-        question = input("\n📝 Enter your question (or 'exit'): ").strip()
-        if question.lower() in {"exit", "quit"}:
+        q = input("\n📝 Question (or exit): ").strip()
+        if q.lower() in {"exit", "quit"}:
             break
 
-        answer = qa_system.ask(question)
+        result = react_graph.invoke(
+            {"messages": [HumanMessage(content=q)]},
+            config
+        )
 
-        print("\n" + "=" * 80)
-        print("QUESTION:")
-        print(question)
-        print("\nANSWER:")
-        print(answer)
-        print("=" * 80)
+        print("\n🤖 Answer:\n")
+        for msg in result["messages"]:
+            msg.pretty_print()

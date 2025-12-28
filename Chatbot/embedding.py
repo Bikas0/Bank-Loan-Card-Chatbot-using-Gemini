@@ -6,6 +6,7 @@ import numpy as np
 from pathlib import Path
 from dotenv import load_dotenv
 
+from config import *
 # ===============================
 # LOAD ENV
 # ===============================
@@ -15,22 +16,7 @@ GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 if not GEMINI_API_KEY:
     raise RuntimeError("❌ GEMINI_API_KEY not found in .env file")
 
-# ===============================
-# CONFIG
-# ===============================
-EMBEDDING_MODEL = "gemini-embedding-001"
-EMBEDDING_DIM = 1536  # ✅ REQUIRED
 
-# Chunking settings to match Odoo AI module
-CHUNK_SIZE = 1500
-CHUNK_OVERLAP = 200
-MIN_CHUNK_SIZE = 1000
-MAX_CHUNK_SIZE = 5000
-
-# Save exactly where script runs
-BASE_DIR = Path(__file__).parent
-FAISS_INDEX_PATH = BASE_DIR / "faiss.index"
-FAISS_META_PATH = BASE_DIR / "metadata.json"
 
 # ===============================
 # GEMINI EMBEDDING CLIENT
