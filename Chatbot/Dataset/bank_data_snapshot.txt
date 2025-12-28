@@ -1,0 +1,4153 @@
+# Bank Knowledge Base
+
+## Available Loans
+
+- **PERSONAL Loan**
+  - Interest Rate: 11.5%
+  - Max Amount: 350000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate/Income proof; Bank statement (last 6 months); Employment certificate
+
+- **VENTURE Loan**
+  - Interest Rate: 9.0%
+  - Max Amount: 2500000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Business plan; Bank statement (last 12 months); Tax return documents; Collateral documents
+
+- **MEDICAL Loan**
+  - Interest Rate: 17.5%
+  - Max Amount: 150000.0
+  - Requirements: National ID/Passport; Medical reports/Hospital bills; Doctor's prescription; Income proof; Bank statement (last 6 months)
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 14.0%
+  - Max Amount: 400000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements from other banks; Income proof; Bank statement (last 6 months); Credit report
+
+- **EDUCATION Loan**
+  - Interest Rate: 10.5%
+  - Max Amount: 500000.0
+  - Requirements: National ID/Passport; Admission letter from institution; Academic transcripts; Guardian's income proof; Tuition fee structure; Bank statement (last 6 months)
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 11.0%
+  - Max Amount: 750000.0
+  - Requirements: National ID/Passport; Property ownership documents; Construction/Renovation estimate; Income proof; Bank statement (last 6 months); Building plan approval
+
+- **PERSONAL Loan**
+  - Interest Rate: 8.5%
+  - Max Amount: 50000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate/Income proof; Bank statement (last 6 months); Employment certificate
+
+- **EDUCATION Loan**
+  - Interest Rate: 13.0%
+  - Max Amount: 100000.0
+  - Requirements: National ID/Passport; Admission letter from institution; Academic transcripts; Guardian's income proof; Tuition fee structure; Bank statement (last 6 months)
+
+- **VENTURE Loan**
+  - Interest Rate: 15.5%
+  - Max Amount: 450000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Business plan; Bank statement (last 12 months); Collateral documents
+
+- **PERSONAL Loan**
+  - Interest Rate: 13.5%
+  - Max Amount: 120000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate/Income proof; Bank statement (last 6 months); Employment certificate
+
+- **MEDICAL Loan**
+  - Interest Rate: 12.0%
+  - Max Amount: 250000.0
+  - Requirements: National ID/Passport; Medical reports/Hospital bills; Doctor's prescription; Income proof; Bank statement (last 6 months)
+
+- **VENTURE Loan**
+  - Interest Rate: 8.0%
+  - Max Amount: 4900000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Business plan; Bank statement (last 12 months); Tax return documents; Collateral documents
+
+- **PERSONAL Loan**
+  - Interest Rate: 16.0%
+  - Max Amount: 80000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate/Income proof; Bank statement (last 6 months); Employment certificate
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 18.0%
+  - Max Amount: 300000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements from other banks; Income proof; Bank statement (last 6 months); Credit report
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 16.5%
+  - Max Amount: 150000.0
+  - Requirements: National ID/Passport; Property ownership documents; Construction/Renovation estimate; Income proof; Bank statement (last 6 months); Building plan approval
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 10.5%
+  - Max Amount: 600000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements from other banks; Income proof; Bank statement (last 6 months); Credit report
+
+- **PERSONAL Loan**
+  - Interest Rate: 12.0%
+  - Max Amount: 500000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate/Income proof; Bank statement (last 6 months); Employment certificate
+
+- **EDUCATION Loan**
+  - Interest Rate: 13.5%
+  - Max Amount: 250000.0
+  - Requirements: National ID/Passport; Admission letter from institution; Academic transcripts; Guardian's income proof; Tuition fee structure; Bank statement (last 6 months)
+
+- **MEDICAL Loan**
+  - Interest Rate: 11.8%
+  - Max Amount: 180000.0
+  - Requirements: National ID/Passport; Medical reports/Hospital bills; Doctor's prescription; Income proof; Bank statement (last 6 months)
+
+- **VENTURE Loan**
+  - Interest Rate: 10.0%
+  - Max Amount: 1000000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Business plan; Bank statement (last 12 months); Tax return documents; Collateral documents
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 15.0%
+  - Max Amount: 200000.0
+  - Requirements: National ID/Passport; Property ownership documents; Construction/Renovation estimate; Income proof; Bank statement (last 6 months); Building plan approval
+
+- **PERSONAL Loan**
+  - Interest Rate: 17.0%
+  - Max Amount: 50000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate/Income proof; Bank statement (last 6 months); Employment certificate
+
+- **VENTURE Loan**
+  - Interest Rate: 11.2%
+  - Max Amount: 800000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Business plan; Bank statement (last 12 months); Tax return documents; Collateral documents
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 13.0%
+  - Max Amount: 650000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements from other banks; Income proof; Bank statement (last 6 months); Credit report
+
+- **MEDICAL Loan**
+  - Interest Rate: 10.5%
+  - Max Amount: 100000.0
+  - Requirements: National ID/Passport; Medical reports/Hospital bills; Doctor's prescription; Income proof (Pension statement); Bank statement (last 6 months)
+
+- **PERSONAL Loan**
+  - Interest Rate: 14.5%
+  - Max Amount: 150000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate/Income proof; Bank statement (last 6 months); Employment certificate
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 9.5%
+  - Max Amount: 1500000.0
+  - Requirements: National ID/Passport; Property ownership documents; Construction/Renovation estimate; Income proof; Bank statement (last 6 months); Building plan approval
+
+- **EDUCATION Loan**
+  - Interest Rate: 11.0%
+  - Max Amount: 250000.0
+  - Requirements: National ID/Passport; Admission letter from institution; Academic transcripts; Guardian's income proof; Tuition fee structure; Bank statement (last 6 months)
+
+- **MEDICAL Loan**
+  - Interest Rate: 13.8%
+  - Max Amount: 350000.0
+  - Requirements: National ID/Passport; Medical reports/Hospital bills; Doctor's prescription; Income proof; Bank statement (last 6 months)
+
+- **PERSONAL Loan**
+  - Interest Rate: 12.8%
+  - Max Amount: 180000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate/Income proof; Bank statement (last 6 months); Employment certificate
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 16.0%
+  - Max Amount: 80000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements from other banks; Income proof; Bank statement (last 6 months); Credit report
+
+- **VENTURE Loan**
+  - Interest Rate: 9.8%
+  - Max Amount: 1500000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Business plan; Bank statement (last 12 months); Tax return documents; Collateral documents
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 13.2%
+  - Max Amount: 450000.0
+  - Requirements: National ID/Passport; Property ownership documents; Construction/Renovation estimate; Income proof; Bank statement (last 6 months); Building plan approval
+
+- **PERSONAL Loan**
+  - Interest Rate: 10.5%
+  - Max Amount: 300000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate/Income proof; Bank statement (last 6 months); Employment certificate
+
+- **EDUCATION Loan**
+  - Interest Rate: 11.5%
+  - Max Amount: 200000.0
+  - Requirements: National ID/Passport; Admission letter from institution; Academic transcripts; Guardian's income proof; Tuition fee structure; Bank statement (last 6 months)
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 15.0%
+  - Max Amount: 280000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements from other banks; Income proof; Bank statement (last 6 months); Credit report
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 8.8%
+  - Max Amount: 2800000.0
+  - Requirements: National ID/Passport; Property ownership documents; Construction/Renovation estimate; Income proof; Bank statement (last 6 months); Building plan approval
+
+- **PERSONAL Loan**
+  - Interest Rate: 12.5%
+  - Max Amount: 200000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate/Income proof; Bank statement (last 6 months); Employment certificate
+
+- **MEDICAL Loan**
+  - Interest Rate: 14.2%
+  - Max Amount: 70000.0
+  - Requirements: National ID/Passport; Medical reports/Hospital bills; Doctor's prescription; Income proof (Retirement fund); Bank statement (last 6 months)
+
+- **VENTURE Loan**
+  - Interest Rate: 10.2%
+  - Max Amount: 1500000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Business plan; Bank statement (last 12 months); Tax return documents; Collateral documents
+
+- **EDUCATION Loan**
+  - Interest Rate: 12.0%
+  - Max Amount: 100000.0
+  - Requirements: National ID/Passport; Admission letter from institution; Academic transcripts; Guardian's income proof; Tuition fee structure; Bank statement (last 6 months)
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 17.0%
+  - Max Amount: 150000.0
+  - Requirements: National ID/Passport; Property ownership documents; Construction/Renovation estimate; Income proof; Bank statement (last 6 months); Building plan approval
+
+- **PERSONAL Loan**
+  - Interest Rate: 18.0%
+  - Max Amount: 50000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate/Income proof; Bank statement (last 6 months); Employment certificate
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 11.0%
+  - Max Amount: 500000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements from other banks; Income proof; Bank statement (last 6 months); Credit report
+
+- **MEDICAL Loan**
+  - Interest Rate: 10.8%
+  - Max Amount: 300000.0
+  - Requirements: National ID/Passport; Medical reports/Hospital bills; Doctor's prescription; Income proof; Bank statement (last 6 months)
+
+- **PERSONAL Loan**
+  - Interest Rate: 16.8%
+  - Max Amount: 120000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate/Income proof; Bank statement (last 6 months); Employment certificate
+
+- **VENTURE Loan**
+  - Interest Rate: 9.5%
+  - Max Amount: 1200000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Business plan; Bank statement (last 12 months); Tax return documents; Collateral documents
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 12.5%
+  - Max Amount: 500000.0
+  - Requirements: National ID/Passport; Property ownership documents; Construction/Renovation estimate; Income proof; Bank statement (last 6 months); Building plan approval
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 13.5%
+  - Max Amount: 700000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements from other banks; Income proof; Bank statement (last 6 months); Credit report
+
+- **EDUCATION Loan**
+  - Interest Rate: 15.0%
+  - Max Amount: 150000.0
+  - Requirements: National ID/Passport; Admission letter from institution; Academic transcripts; Guardian's income proof; Tuition fee structure; Bank statement (last 6 months)
+
+- **PERSONAL Loan**
+  - Interest Rate: 10.0%
+  - Max Amount: 300000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate/Income proof; Bank statement (last 6 months); Employment certificate
+
+- **VENTURE Loan**
+  - Interest Rate: 10.8%
+  - Max Amount: 2000000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Business plan; Bank statement (last 12 months); Tax return documents; Collateral documents
+
+- **PERSONAL Loan**
+  - Interest Rate: 10.5%
+  - Max Amount: 450000.0
+  - Requirements: National ID; Recent passport-size photos; Salary certificate; Bank statement (last 6 months); Employment certificate; TIN
+
+- **EDUCATION Loan**
+  - Interest Rate: 9.8%
+  - Max Amount: 120000.0
+  - Requirements: National ID; Admission letter; Academic transcripts; Guardian's income proof; Tuition fee structure; Bank statement (6 months)
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 14.5%
+  - Max Amount: 600000.0
+  - Requirements: National ID; Property ownership documents; Construction estimate; Income proof; Bank statement (6 months); Building plan approval
+
+- **VENTURE Loan**
+  - Interest Rate: 11.2%
+  - Max Amount: 900000.0
+  - Requirements: National ID; Business registration; Trade license; Business plan; Bank statement (12 months); Tax return documents; Collateral documents
+
+- **MEDICAL Loan**
+  - Interest Rate: 13.0%
+  - Max Amount: 150000.0
+  - Requirements: National ID; Medical reports/Hospital bills; Doctor's prescription; Income proof; Bank statement (6 months)
+
+- **PERSONAL Loan**
+  - Interest Rate: 15.5%
+  - Max Amount: 50000.0
+  - Requirements: National ID; Recent photos; Salary certificate; Bank statement (3 months)
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 8.5%
+  - Max Amount: 500000.0
+  - Requirements: National ID; List of existing debts; Loan statements from other banks; Income proof; Bank statement (6 months); Credit report
+
+- **EDUCATION Loan**
+  - Interest Rate: 10.0%
+  - Max Amount: 350000.0
+  - Requirements: National ID; Admission letter; Academic transcripts; Self income proof; Tuition fee structure; Bank statement (6 months)
+
+- **VENTURE Loan**
+  - Interest Rate: 17.0%
+  - Max Amount: 180000.0
+  - Requirements: National ID; Trade license; Simple business plan; Bank statement (6 months); TIN
+
+- **PERSONAL Loan**
+  - Interest Rate: 16.5%
+  - Max Amount: 80000.0
+  - Requirements: National ID; Income proof (e.g., remittance slips); Bank statement (3 months)
+
+- **EDUCATION Loan**
+  - Interest Rate: 18.0%
+  - Max Amount: 60000.0
+  - Requirements: National ID; Guardian's income proof; Admission letter; Bank statement (3 months)
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 12.0%
+  - Max Amount: 800000.0
+  - Requirements: National ID; Property ownership documents; Construction estimate; Income proof; Bank statement (6 months); Building plan
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 9.5%
+  - Max Amount: 250000.0
+  - Requirements: National ID; List of existing debts; Loan statements; Income proof; Bank statement (6 months)
+
+- **PERSONAL Loan**
+  - Interest Rate: 11.5%
+  - Max Amount: 300000.0
+  - Requirements: National ID; Salary certificate; Bank statement (6 months); Employment certificate
+
+- **MEDICAL Loan**
+  - Interest Rate: 17.5%
+  - Max Amount: 50000.0
+  - Requirements: National ID; Medical reports/Hospital bills; Bank statement (3 months)
+
+- **VENTURE Loan**
+  - Interest Rate: 10.8%
+  - Max Amount: 1500000.0
+  - Requirements: National ID; Comprehensive business documents; Trade license; Tax returns; Collateral (Land Deed); Bank statement (12 months)
+
+- **PERSONAL Loan**
+  - Interest Rate: 13.5%
+  - Max Amount: 100000.0
+  - Requirements: National ID; Salary certificate; Bank statement (6 months)
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 9.0%
+  - Max Amount: 2000000.0
+  - Requirements: National ID; Property documents; Detailed estimate; Income proof; Bank statement (6 months); Building plan approval
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 16.0%
+  - Max Amount: 120000.0
+  - Requirements: National ID; List of existing debts; Loan statements; Income proof; Bank statement (6 months)
+
+- **EDUCATION Loan**
+  - Interest Rate: 11.0%
+  - Max Amount: 250000.0
+  - Requirements: National ID; Admission letter (child); Guardian's income proof; Bank statement (6 months)
+
+- **PERSONAL Loan**
+  - Interest Rate: 10.2%
+  - Max Amount: 400000.0
+  - Requirements: National ID; Salary certificate; Bank statement (6 months); Employment certificate
+
+- **VENTURE Loan**
+  - Interest Rate: 15.0%
+  - Max Amount: 300000.0
+  - Requirements: National ID; Trade license; Basic business plan; Bank statement (6 months)
+
+- **MEDICAL Loan**
+  - Interest Rate: 15.8%
+  - Max Amount: 70000.0
+  - Requirements: National ID; Medical reports; Bank statement (3 months)
+
+- **PERSONAL Loan**
+  - Interest Rate: 14.0%
+  - Max Amount: 80000.0
+  - Requirements: National ID; Salary certificate; Bank statement (6 months)
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 10.5%
+  - Max Amount: 500000.0
+  - Requirements: National ID; List of existing debts; Loan statements; Income proof; Bank statement (6 months)
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 11.8%
+  - Max Amount: 1000000.0
+  - Requirements: National ID; Property documents; Construction estimate; Income proof; Bank statement (6 months)
+
+- **VENTURE Loan**
+  - Interest Rate: 8.0%
+  - Max Amount: 4500000.0
+  - Requirements: National ID; Business registration; Tax returns; Detailed business plan; Collateral documents (high value); Bank statement (12 months)
+
+- **EDUCATION Loan**
+  - Interest Rate: 12.5%
+  - Max Amount: 150000.0
+  - Requirements: National ID; Admission letter; Guardian's income proof; Bank statement (6 months)
+
+- **PERSONAL Loan**
+  - Interest Rate: 17.0%
+  - Max Amount: 60000.0
+  - Requirements: National ID; Income proof; Bank statement (3 months)
+
+- **MEDICAL Loan**
+  - Interest Rate: 9.2%
+  - Max Amount: 300000.0
+  - Requirements: National ID; Medical reports; Income proof; Bank statement (6 months)
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 15.0%
+  - Max Amount: 200000.0
+  - Requirements: National ID; List of existing debts; Loan statements; Income proof; Bank statement (6 months)
+
+- **PERSONAL Loan**
+  - Interest Rate: 16.5%
+  - Max Amount: 70000.0
+  - Requirements: National ID; Salary certificate; Bank statement (3 months)
+
+- **VENTURE Loan**
+  - Interest Rate: 13.0%
+  - Max Amount: 400000.0
+  - Requirements: National ID; Trade license; Business plan; Bank statement (12 months)
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 10.0%
+  - Max Amount: 1800000.0
+  - Requirements: National ID; Property documents; Construction estimate; Income proof; Bank statement (6 months)
+
+- **PERSONAL Loan**
+  - Interest Rate: 18.0%
+  - Max Amount: 50000.0
+  - Requirements: National ID; Guardian's income proof; Bank statement (3 months)
+
+- **MEDICAL Loan**
+  - Interest Rate: 8.0%
+  - Max Amount: 300000.0
+  - Requirements: National ID; Medical reports; Income proof; Bank statement (6 months)
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 14.0%
+  - Max Amount: 250000.0
+  - Requirements: National ID; List of existing debts; Loan statements; Income proof; Bank statement (6 months)
+
+- **PERSONAL Loan**
+  - Interest Rate: 15.5%
+  - Max Amount: 150000.0
+  - Requirements: National ID; Income proof (e.g., small business receipts); Bank statement (6 months)
+
+- **EDUCATION Loan**
+  - Interest Rate: 9.5%
+  - Max Amount: 400000.0
+  - Requirements: National ID; Admission letter; Self income proof; Bank statement (6 months)
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 12.5%
+  - Max Amount: 750000.0
+  - Requirements: National ID; Property documents; Construction estimate; Income proof; Bank statement (6 months)
+
+- **VENTURE Loan**
+  - Interest Rate: 11.0%
+  - Max Amount: 800000.0
+  - Requirements: National ID; Business registration; Trade license; Business plan; Bank statement (12 months)
+
+- **MEDICAL Loan**
+  - Interest Rate: 16.8%
+  - Max Amount: 100000.0
+  - Requirements: National ID; Medical reports; Bank statement (3 months)
+
+- **PERSONAL Loan**
+  - Interest Rate: 17.0%
+  - Max Amount: 90000.0
+  - Requirements: National ID; Income proof; Bank statement (3 months)
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 8.8%
+  - Max Amount: 1500000.0
+  - Requirements: National ID; List of existing debts; Loan statements; Income proof; Bank statement (6 months)
+
+- **EDUCATION Loan**
+  - Interest Rate: 11.5%
+  - Max Amount: 100000.0
+  - Requirements: National ID; Admission letter; Academic transcripts; Guardian's income proof
+
+- **PERSONAL Loan**
+  - Interest Rate: 17.5%
+  - Max Amount: 60000.0
+  - Requirements: National ID; Income proof; Bank statement (3 months)
+
+- **VENTURE Loan**
+  - Interest Rate: 12.0%
+  - Max Amount: 600000.0
+  - Requirements: National ID; Trade license; Business plan; Bank statement (12 months); Tax return
+
+- **PERSONAL Loan**
+  - Interest Rate: 13.0%
+  - Max Amount: 250000.0
+  - Requirements: National ID; Salary certificate; Bank statement (6 months)
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 14.0%
+  - Max Amount: 550000.0
+  - Requirements: National ID; Property documents; Construction estimate; Income proof; Bank statement (6 months)
+
+- **MEDICAL Loan**
+  - Interest Rate: 10.8%
+  - Max Amount: 150000.0
+  - Requirements: National ID; Medical reports; Income proof; Bank statement (6 months)
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 8.5%
+  - Max Amount: 2500000.0
+  - Requirements: National ID; Property documents; Detailed estimate; Income proof; Bank statement (6 months); Building plan approval
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 18.0%
+  - Max Amount: 50000.0
+  - Requirements: National ID; List of existing debts; Income proof; Bank statement (3 months)
+
+- **VENTURE Loan**
+  - Interest Rate: 9.0%
+  - Max Amount: 1000000.0
+  - Requirements: National ID; Comprehensive business documents; Tax returns; Bank statement (12 months)
+
+- **PERSONAL Loan**
+  - Interest Rate: 15.0%
+  - Max Amount: 90000.0
+  - Requirements: National ID; Salary certificate; Bank statement (6 months)
+
+- **EDUCATION Loan**
+  - Interest Rate: 12.0%
+  - Max Amount: 150000.0
+  - Requirements: National ID; Admission letter (child); Guardian's income proof; Bank statement (6 months)
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 10.0%
+  - Max Amount: 700000.0
+  - Requirements: National ID; List of existing debts; Loan statements; Income proof; Bank statement (6 months)
+
+- **PERSONAL Loan**
+  - Interest Rate: 14.5%
+  - Max Amount: 180000.0
+  - Requirements: National ID; Salary certificate; Bank statement (6 months)
+
+- **MEDICAL Loan**
+  - Interest Rate: 16.0%
+  - Max Amount: 100000.0
+  - Requirements: National ID; Medical reports; Bank statement (3 months)
+
+- **VENTURE Loan**
+  - Interest Rate: 16.5%
+  - Max Amount: 120000.0
+  - Requirements: National ID; Trade license; Basic business plan; Bank statement (6 months)
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 8.2%
+  - Max Amount: 3500000.0
+  - Requirements: National ID; Property documents; Construction estimate; Income proof; Bank statement (6 months); Building plan approval
+
+- **PERSONAL Loan**
+  - Interest Rate: 10.0%
+  - Max Amount: 450000.0
+  - Requirements: National ID; Salary certificate; Bank statement (6 months)
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 13.5%
+  - Max Amount: 200000.0
+  - Requirements: National ID; List of existing debts; Loan statements; Income proof; Bank statement (6 months)
+
+- **PERSONAL Loan**
+  - Interest Rate: 17.8%
+  - Max Amount: 60000.0
+  - Requirements: National ID; Guardian's income proof; Bank statement (3 months)
+
+- **EDUCATION Loan**
+  - Interest Rate: 10.5%
+  - Max Amount: 350000.0
+  - Requirements: National ID; Admission letter; Academic transcripts; Bank statement (6 months)
+
+- **MEDICAL Loan**
+  - Interest Rate: 15.0%
+  - Max Amount: 80000.0
+  - Requirements: National ID; Medical reports; Income proof; Bank statement (3 months)
+
+- **VENTURE Loan**
+  - Interest Rate: 10.8%
+  - Max Amount: 800000.0
+  - Requirements: National ID; Business registration; Trade license; Tax returns; Bank statement (12 months)
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 13.0%
+  - Max Amount: 200000.0
+  - Requirements: National ID; Rental agreement; Construction estimate (small repair); Income proof; Bank statement (6 months)
+
+- **PERSONAL Loan**
+  - Interest Rate: 16.2%
+  - Max Amount: 120000.0
+  - Requirements: National ID; Income proof; Bank statement (3 months)
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 9.5%
+  - Max Amount: 500000.0
+  - Requirements: National ID; List of existing debts; Loan statements; Income proof; Bank statement (6 months)
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 9.8%
+  - Max Amount: 1200000.0
+  - Requirements: National ID; Property documents; Construction estimate; Income proof; Bank statement (6 months)
+
+- **EDUCATION Loan**
+  - Interest Rate: 14.0%
+  - Max Amount: 70000.0
+  - Requirements: National ID; Guardian's income proof; Admission letter
+
+- **PERSONAL Loan**
+  - Interest Rate: 11.0%
+  - Max Amount: 300000.0
+  - Requirements: National ID; Salary certificate; Bank statement (6 months)
+
+- **MEDICAL Loan**
+  - Interest Rate: 18.0%
+  - Max Amount: 50000.0
+  - Requirements: National ID; Medical reports; Bank statement (3 months)
+
+- **VENTURE Loan**
+  - Interest Rate: 15.5%
+  - Max Amount: 200000.0
+  - Requirements: National ID; Trade license (informal); Business plan; Bank statement (6 months)
+
+- **PERSONAL Loan**
+  - Interest Rate: 10.2%
+  - Max Amount: 600000.0
+  - Requirements: National ID; Salary certificate; Bank statement (6 months)
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 11.5%
+  - Max Amount: 400000.0
+  - Requirements: National ID; List of existing debts; Loan statements; Income proof; Bank statement (6 months)
+
+- **EDUCATION Loan**
+  - Interest Rate: 12.5%
+  - Max Amount: 150000.0
+  - Requirements: National ID; Admission letter; Academic transcripts; Guardian's income proof
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 8.0%
+  - Max Amount: 5000000.0
+  - Requirements: National ID; Property documents; Construction estimate (large); Income proof; Bank statement (6 months); Building plan approval
+
+- **PERSONAL Loan**
+  - Interest Rate: 14.0%
+  - Max Amount: 100000.0
+  - Requirements: National ID; Salary certificate; Bank statement (6 months)
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 17.0%
+  - Max Amount: 75000.0
+  - Requirements: National ID; List of existing debts; Income proof; Bank statement (3 months)
+
+- **VENTURE Loan**
+  - Interest Rate: 13.5%
+  - Max Amount: 300000.0
+  - Requirements: National ID; Business registration; Trade license; Business plan; Bank statement (12 months)
+
+- **MEDICAL Loan**
+  - Interest Rate: 11.8%
+  - Max Amount: 250000.0
+  - Requirements: National ID; Medical reports; Hospital bills; Income proof; Bank statement (6 months)
+
+- **PERSONAL Loan**
+  - Interest Rate: 9.0%
+  - Max Amount: 200000.0
+  - Requirements: National ID; Salary certificate; Bank statement (6 months)
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 16.5%
+  - Max Amount: 80000.0
+  - Requirements: National ID; List of existing debts; Loan statements; Income proof; Bank statement (6 months)
+
+- **VENTURE Loan**
+  - Interest Rate: 10.5%
+  - Max Amount: 1500000.0
+  - Requirements: National ID; Comprehensive business documents; Tax returns; Bank statement (12 months); Collateral
+
+- **PERSONAL Loan**
+  - Interest Rate: 17.5%
+  - Max Amount: 50000.0
+  - Requirements: National ID; Income proof; Bank statement (3 months)
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 13.0%
+  - Max Amount: 220000.0
+  - Requirements: National ID; Rental agreement; Construction estimate (minor); Income proof; Bank statement (6 months)
+
+- **MEDICAL Loan**
+  - Interest Rate: 15.0%
+  - Max Amount: 100000.0
+  - Requirements: National ID; Medical reports; Income proof; Bank statement (3 months)
+
+- **EDUCATION Loan**
+  - Interest Rate: 11.0%
+  - Max Amount: 120000.0
+  - Requirements: National ID; Admission letter; Guardian's income proof; Academic transcripts
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 10.0%
+  - Max Amount: 500000.0
+  - Requirements: National ID; List of existing debts; Loan statements; Income proof; Bank statement (6 months)
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 12.2%
+  - Max Amount: 900000.0
+  - Requirements: National ID; Property documents; Construction estimate; Income proof; Bank statement (6 months)
+
+- **PERSONAL Loan**
+  - Interest Rate: 16.0%
+  - Max Amount: 80000.0
+  - Requirements: National ID; Salary certificate; Bank statement (6 months)
+
+- **VENTURE Loan**
+  - Interest Rate: 18.0%
+  - Max Amount: 60000.0
+  - Requirements: National ID; Basic business plan; Bank statement (3 months)
+
+- **VENTURE Loan**
+  - Interest Rate: 8.5%
+  - Max Amount: 3000000.0
+  - Requirements: National ID; Full business documentation; Collateral; Tax returns; Bank statement (12 months)
+
+- **MEDICAL Loan**
+  - Interest Rate: 10.0%
+  - Max Amount: 150000.0
+  - Requirements: National ID; Medical reports; Income proof; Bank statement (6 months)
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 14.5%
+  - Max Amount: 250000.0
+  - Requirements: National ID; List of existing debts; Loan statements; Income proof; Bank statement (6 months)
+
+- **PERSONAL Loan**
+  - Interest Rate: 13.5%
+  - Max Amount: 100000.0
+  - Requirements: National ID; Salary certificate; Bank statement (6 months)
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 15.8%
+  - Max Amount: 150000.0
+  - Requirements: National ID; Property documents (small plot); Construction estimate; Income proof
+
+- **EDUCATION Loan**
+  - Interest Rate: 9.8%
+  - Max Amount: 400000.0
+  - Requirements: National ID; Admission letter (child); Self income proof; Bank statement (6 months)
+
+- **PERSONAL Loan**
+  - Interest Rate: 17.0%
+  - Max Amount: 50000.0
+  - Requirements: National ID; Income proof; Bank statement (3 months)
+
+- **VENTURE Loan**
+  - Interest Rate: 12.5%
+  - Max Amount: 350000.0
+  - Requirements: National ID; Trade license; Business plan; Bank statement (12 months)
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 9.2%
+  - Max Amount: 1800000.0
+  - Requirements: National ID; Property documents; Construction estimate; Income proof; Bank statement (6 months)
+
+- **PERSONAL Loan**
+  - Interest Rate: 10.5%
+  - Max Amount: 500000.0
+  - Requirements: National ID; Salary certificate; Bank statement (6 months)
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 16.0%
+  - Max Amount: 100000.0
+  - Requirements: National ID; List of existing debts; Loan statements; Income proof; Bank statement (6 months)
+
+- **MEDICAL Loan**
+  - Interest Rate: 14.0%
+  - Max Amount: 80000.0
+  - Requirements: National ID; Medical reports; Guardian's income proof; Bank statement (3 months)
+
+- **VENTURE Loan**
+  - Interest Rate: 11.5%
+  - Max Amount: 400000.0
+  - Requirements: National ID; Business registration; Trade license; Business plan; Bank statement (12 months)
+
+- **PERSONAL Loan**
+  - Interest Rate: 17.0%
+  - Max Amount: 70000.0
+  - Requirements: National ID; Income proof; Bank statement (3 months)
+
+- **PERSONAL Loan**
+  - Interest Rate: 13.5%
+  - Max Amount: 100000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate; Bank statement (last 6 months); Employment certificate
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 9.5%
+  - Max Amount: 1500000.0
+  - Requirements: National ID/Passport; Property ownership documents; Construction/Renovation estimate; Income proof; Bank statement; Building plan approval
+
+- **VENTURE Loan**
+  - Interest Rate: 17.0%
+  - Max Amount: 800000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Business plan; Bank statement (last 12 months); Tax return documents; Collateral documents
+
+- **EDUCATION Loan**
+  - Interest Rate: 10.5%
+  - Max Amount: 250000.0
+  - Requirements: National ID/Passport; Admission letter from institution; Academic transcripts; Guardian's income proof; Tuition fee structure; Bank statement
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 11.0%
+  - Max Amount: 600000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements from other banks; Income proof; Bank statement; Credit report
+
+- **MEDICAL Loan**
+  - Interest Rate: 14.0%
+  - Max Amount: 200000.0
+  - Requirements: National ID/Passport; Medical reports/Hospital bills; Doctor's prescription; Income proof; Bank statement
+
+- **VENTURE Loan**
+  - Interest Rate: 8.5%
+  - Max Amount: 5000000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Business plan (detailed); Bank statement (last 12 months); Tax return documents; Collateral documents (High Value)
+
+- **PERSONAL Loan**
+  - Interest Rate: 12.0%
+  - Max Amount: 300000.0
+  - Requirements: National ID/Passport; Recent photo; Salary certificate; Bank statement (last 6 months); Employment certificate
+
+- **PERSONAL Loan**
+  - Interest Rate: 15.0%
+  - Max Amount: 50000.0
+  - Requirements: National ID/Passport; Recent photo; Income proof (Rental income statement); Bank statement (last 6 months)
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 10.0%
+  - Max Amount: 1500000.0
+  - Requirements: National ID/Passport; Property ownership documents; Construction estimate; Income proof; Bank statement
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 13.0%
+  - Max Amount: 400000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements from other banks; Income proof; Bank statement; Detailed credit report
+
+- **EDUCATION Loan**
+  - Interest Rate: 11.5%
+  - Max Amount: 120000.0
+  - Requirements: National ID/Passport; Admission letter; Academic transcripts; Guardian's income proof (Farmer/Small business documentation); Tuition fee structure; Bank statement
+
+- **MEDICAL Loan**
+  - Interest Rate: 9.0%
+  - Max Amount: 200000.0
+  - Requirements: National ID/Passport; Medical reports; Hospital bills; Income proof (Tax return); Bank statement
+
+- **VENTURE Loan**
+  - Interest Rate: 10.5%
+  - Max Amount: 700000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Business plan; Bank statement (last 12 months); Tax return documents
+
+- **PERSONAL Loan**
+  - Interest Rate: 16.5%
+  - Max Amount: 150000.0
+  - Requirements: National ID/Passport; Recent photo; Income proof (Informal sector affidavit); Bank statement (last 3 months)
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 11.8%
+  - Max Amount: 450000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements from other banks; Income proof; Bank statement; Credit report
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 12.5%
+  - Max Amount: 1000000.0
+  - Requirements: National ID/Passport; Property ownership documents (Leasehold agreement); Construction estimate; Income proof; Bank statement; Contractor quote
+
+- **PERSONAL Loan**
+  - Interest Rate: 8.0%
+  - Max Amount: 500000.0
+  - Requirements: National ID/Passport; Recent photo; Pension/Retirement fund documents; Bank statement (last 6 months)
+
+- **EDUCATION Loan**
+  - Interest Rate: 10.0%
+  - Max Amount: 180000.0
+  - Requirements: National ID/Passport; Admission letter; Academic transcripts; Guardian's income proof (Salaried); Tuition fee structure; Bank statement
+
+- **MEDICAL Loan**
+  - Interest Rate: 15.5%
+  - Max Amount: 300000.0
+  - Requirements: National ID/Passport; Medical reports; Hospital bills; Income proof; Bank statement (last 6 months)
+
+- **VENTURE Loan**
+  - Interest Rate: 9.8%
+  - Max Amount: 1800000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Business plan; Bank statement (last 12 months); Tax return documents; Collateral documents (Fixed Deposit Receipts)
+
+- **PERSONAL Loan**
+  - Interest Rate: 12.8%
+  - Max Amount: 350000.0
+  - Requirements: National ID/Passport; Recent photo; Salary certificate; Bank statement (last 6 months); Employment certificate
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 9.2%
+  - Max Amount: 1000000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements from other banks; Income proof; Bank statement; Credit report
+
+- **PERSONAL Loan**
+  - Interest Rate: 18.0%
+  - Max Amount: 50000.0
+  - Requirements: National ID/Passport; Recent photo; Income proof (Vendor license); Bank statement (last 3 months)
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 11.5%
+  - Max Amount: 800000.0
+  - Requirements: National ID/Passport; Property ownership documents; Renovation estimate; Income proof; Bank statement
+
+- **MEDICAL Loan**
+  - Interest Rate: 14.5%
+  - Max Amount: 200000.0
+  - Requirements: National ID/Passport; Medical reports; Doctor's prescription; Income proof (Guardian support letter); Bank statement
+
+- **VENTURE Loan**
+  - Interest Rate: 10.0%
+  - Max Amount: 2500000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Business plan; Bank statement (last 12 months); Tax return documents; Collateral documents (Commercial Property)
+
+- **PERSONAL Loan**
+  - Interest Rate: 13.0%
+  - Max Amount: 250000.0
+  - Requirements: National ID/Passport; Recent photo; Salary certificate; Bank statement (last 6 months)
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 16.0%
+  - Max Amount: 400000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements from other banks; Income proof; Bank statement; Credit report
+
+- **EDUCATION Loan**
+  - Interest Rate: 9.0%
+  - Max Amount: 150000.0
+  - Requirements: National ID/Passport; Admission letter; Academic transcripts; Self-declaration of income; Tuition fee structure; Bank statement
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 11.0%
+  - Max Amount: 1200000.0
+  - Requirements: National ID/Passport; Property ownership documents; Construction estimate; Income proof; Bank statement; Building plan approval
+
+- **MEDICAL Loan**
+  - Interest Rate: 8.8%
+  - Max Amount: 100000.0
+  - Requirements: National ID/Passport; Medical reports; Hospital bills; Income proof (Retirement plan); Bank statement
+
+- **PERSONAL Loan**
+  - Interest Rate: 17.5%
+  - Max Amount: 100000.0
+  - Requirements: National ID/Passport; Recent photo; Income proof (Small business ledger); Bank statement (last 3 months)
+
+- **VENTURE Loan**
+  - Interest Rate: 11.2%
+  - Max Amount: 500000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Business plan; Bank statement (last 12 months); Tax return documents
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 10.5%
+  - Max Amount: 750000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements from other banks; Income proof; Bank statement; Credit report
+
+- **PERSONAL Loan**
+  - Interest Rate: 14.8%
+  - Max Amount: 150000.0
+  - Requirements: National ID/Passport; Recent photo; Salary certificate; Bank statement (last 6 months)
+
+- **MEDICAL Loan**
+  - Interest Rate: 16.8%
+  - Max Amount: 80000.0
+  - Requirements: National ID/Passport; Medical reports; Doctor's prescription; Income proof (Welfare benefits); Bank statement
+
+- **EDUCATION Loan**
+  - Interest Rate: 9.5%
+  - Max Amount: 300000.0
+  - Requirements: National ID/Passport; Admission letter; Academic transcripts; Self-declaration of future income; Tuition fee structure; Bank statement
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 10.8%
+  - Max Amount: 1500000.0
+  - Requirements: National ID/Passport; Property ownership documents; Construction estimate (Large scale); Income proof; Bank statement; Building plan approval
+
+- **VENTURE Loan**
+  - Interest Rate: 8.2%
+  - Max Amount: 2500000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Detailed business plan; Bank statement (last 12 months); Tax return documents; Collateral documents (Securities)
+
+- **PERSONAL Loan**
+  - Interest Rate: 15.2%
+  - Max Amount: 220000.0
+  - Requirements: National ID/Passport; Recent photo; Salary certificate; Bank statement (last 6 months)
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 12.2%
+  - Max Amount: 350000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements from other banks; Income proof; Bank statement; Credit report
+
+- **MEDICAL Loan**
+  - Interest Rate: 10.0%
+  - Max Amount: 600000.0
+  - Requirements: National ID/Passport; Medical reports; Hospital bills; Doctor's prescription; Income proof; Bank statement
+
+- **PERSONAL Loan**
+  - Interest Rate: 17.0%
+  - Max Amount: 50000.0
+  - Requirements: National ID/Passport; Recent photo; Guardian's income proof; Bank statement (last 3 months)
+
+- **EDUCATION Loan**
+  - Interest Rate: 11.5%
+  - Max Amount: 400000.0
+  - Requirements: National ID/Passport; Admission letter for child's foreign study; Academic transcripts; Income proof; Tuition fee structure; Bank statement
+
+- **VENTURE Loan**
+  - Interest Rate: 10.2%
+  - Max Amount: 1500000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Business plan; Bank statement (last 12 months); Tax return documents; Collateral documents (Machinery)
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 14.0%
+  - Max Amount: 250000.0
+  - Requirements: National ID/Passport; Property ownership documents (Joint ownership); Renovation estimate; Income proof; Bank statement
+
+- **PERSONAL Loan**
+  - Interest Rate: 13.8%
+  - Max Amount: 300000.0
+  - Requirements: National ID/Passport; Recent photo; Salary certificate; Bank statement (last 6 months); Employment certificate
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 17.8%
+  - Max Amount: 150000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements from other banks; Income proof (Affidavit); Bank statement; Credit report
+
+- **MEDICAL Loan**
+  - Interest Rate: 8.0%
+  - Max Amount: 100000.0
+  - Requirements: National ID/Passport; Medical reports; Hospital bills; Income proof; Bank statement
+
+- **VENTURE Loan**
+  - Interest Rate: 12.5%
+  - Max Amount: 800000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Business plan; Bank statement (last 12 months); Tax return documents
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 9.0%
+  - Max Amount: 3000000.0
+  - Requirements: National ID/Passport; Property ownership documents; Construction estimate (High value); Income proof; Bank statement; Building plan approval
+
+- **EDUCATION Loan**
+  - Interest Rate: 12.0%
+  - Max Amount: 75000.0
+  - Requirements: National ID/Passport; Admission letter; Academic transcripts; Guardian's income proof (Small farm income); Tuition fee structure; Bank statement
+
+- **PERSONAL Loan**
+  - Interest Rate: 15.5%
+  - Max Amount: 150000.0
+  - Requirements: National ID/Passport; Recent photo; Income proof (Informal business records); Bank statement (last 3 months)
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 11.9%
+  - Max Amount: 500000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements from other banks; Income proof (TIN documentation); Bank statement; Credit report
+
+- **MEDICAL Loan**
+  - Interest Rate: 10.5%
+  - Max Amount: 400000.0
+  - Requirements: National ID/Passport; Medical reports; Hospital bills; Doctor's prescription; Income proof; Bank statement
+
+- **PERSONAL Loan**
+  - Interest Rate: 12.5%
+  - Max Amount: 500000.0
+  - Requirements: National ID/Passport; Recent photo; Salary certificate; Bank statement (last 6 months); Employment certificate
+
+- **VENTURE Loan**
+  - Interest Rate: 11.0%
+  - Max Amount: 400000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Business plan; Bank statement (last 12 months)
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 16.0%
+  - Max Amount: 500000.0
+  - Requirements: National ID/Passport; Property ownership documents; Renovation estimate; Income proof; Bank statement
+
+- **EDUCATION Loan**
+  - Interest Rate: 8.5%
+  - Max Amount: 150000.0
+  - Requirements: National ID/Passport; Admission letter (Post-doc funding gap); Academic transcripts; Income proof; Tuition fee structure; Bank statement
+
+- **PERSONAL Loan**
+  - Interest Rate: 15.0%
+  - Max Amount: 200000.0
+  - Requirements: National ID/Passport; Recent photo; Income proof (Affidavit of income); Bank statement (last 6 months)
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 10.8%
+  - Max Amount: 600000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements from other banks; Income proof; Bank statement; Credit report
+
+- **VENTURE Loan**
+  - Interest Rate: 13.5%
+  - Max Amount: 900000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Business plan; Bank statement (last 12 months); Tax return documents; Collateral documents (Inventory)
+
+- **MEDICAL Loan**
+  - Interest Rate: 16.5%
+  - Max Amount: 100000.0
+  - Requirements: National ID/Passport; Medical reports; Hospital bills; Doctor's prescription; Income proof (Family support); Bank statement
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 9.8%
+  - Max Amount: 2000000.0
+  - Requirements: National ID/Passport; Property ownership documents; Construction estimate; Income proof; Bank statement; Building plan approval
+
+- **PERSONAL Loan**
+  - Interest Rate: 11.5%
+  - Max Amount: 300000.0
+  - Requirements: National ID/Passport; Recent photo; Pension statement; Bank statement (last 6 months)
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 14.0%
+  - Max Amount: 250000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements from other banks; Income proof; Bank statement; Credit report
+
+- **PERSONAL Loan**
+  - Interest Rate: 17.2%
+  - Max Amount: 120000.0
+  - Requirements: National ID/Passport; Recent photo; Income proof (Shop lease agreement); Bank statement (last 3 months)
+
+- **EDUCATION Loan**
+  - Interest Rate: 9.2%
+  - Max Amount: 100000.0
+  - Requirements: National ID/Passport; Admission letter; Academic transcripts; Self-declaration of income; Tuition fee structure; Bank statement
+
+- **VENTURE Loan**
+  - Interest Rate: 8.8%
+  - Max Amount: 4000000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Detailed business plan; Bank statement (last 12 months); Tax return documents; Collateral documents (Residential Plot)
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 13.0%
+  - Max Amount: 500000.0
+  - Requirements: National ID/Passport; Property ownership documents (Sub-lease); Renovation estimate; Income proof; Bank statement
+
+- **PERSONAL Loan**
+  - Interest Rate: 16.0%
+  - Max Amount: 80000.0
+  - Requirements: National ID/Passport; Recent photo; Guardian's income proof; Bank statement (last 3 months)
+
+- **MEDICAL Loan**
+  - Interest Rate: 10.2%
+  - Max Amount: 700000.0
+  - Requirements: National ID/Passport; Medical reports; Hospital bills; Doctor's prescription; Income proof; Bank statement
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 15.5%
+  - Max Amount: 200000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements from other banks; Income proof; Bank statement; Credit report
+
+- **PERSONAL Loan**
+  - Interest Rate: 14.5%
+  - Max Amount: 150000.0
+  - Requirements: National ID/Passport; Recent photo; Salary certificate (Entry-level); Bank statement (last 6 months)
+
+- **VENTURE Loan**
+  - Interest Rate: 9.0%
+  - Max Amount: 1500000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Business plan; Bank statement (last 12 months); Tax return documents; Collateral documents
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 14.5%
+  - Max Amount: 300000.0
+  - Requirements: National ID/Passport; Property ownership documents; Renovation estimate; Income proof; Bank statement
+
+- **EDUCATION Loan**
+  - Interest Rate: 10.0%
+  - Max Amount: 200000.0
+  - Requirements: National ID/Passport; Admission letter; Academic transcripts; Income proof; Tuition fee structure; Bank statement
+
+- **MEDICAL Loan**
+  - Interest Rate: 13.0%
+  - Max Amount: 50000.0
+  - Requirements: National ID/Passport; Medical reports; Hospital bills; Doctor's prescription; Income proof (Savings certificate); Bank statement
+
+- **PERSONAL Loan**
+  - Interest Rate: 12.8%
+  - Max Amount: 450000.0
+  - Requirements: National ID/Passport; Recent photo; Salary certificate; Bank statement (last 6 months); Employment certificate
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 10.5%
+  - Max Amount: 800000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements from other banks; Income proof; Bank statement; Credit report
+
+- **VENTURE Loan**
+  - Interest Rate: 16.8%
+  - Max Amount: 180000.0
+  - Requirements: National ID/Passport; Business registration documents (Micro-enterprise); Trade license; Business plan (Simple); Bank statement (last 6 months); Collateral documents (None)
+
+- **PERSONAL Loan**
+  - Interest Rate: 17.5%
+  - Max Amount: 100000.0
+  - Requirements: National ID/Passport; Recent photo; Income proof (Local council certification); Bank statement (last 3 months)
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 9.5%
+  - Max Amount: 2500000.0
+  - Requirements: National ID/Passport; Property ownership documents; Construction estimate (Luxury); Income proof; Bank statement; Building plan approval
+
+- **EDUCATION Loan**
+  - Interest Rate: 11.0%
+  - Max Amount: 200000.0
+  - Requirements: National ID/Passport; Admission letter; Academic transcripts; Guardian's income proof; Tuition fee structure; Bank statement
+
+- **MEDICAL Loan**
+  - Interest Rate: 13.5%
+  - Max Amount: 300000.0
+  - Requirements: National ID/Passport; Medical reports; Hospital bills; Doctor's prescription; Income proof; Bank statement
+
+- **PERSONAL Loan**
+  - Interest Rate: 14.8%
+  - Max Amount: 150000.0
+  - Requirements: National ID/Passport; Recent photo; Income proof (Rental property income); Bank statement (last 6 months)
+
+- **VENTURE Loan**
+  - Interest Rate: 10.8%
+  - Max Amount: 1200000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Business plan; Bank statement (last 12 months); Tax return documents; Collateral documents (Land)
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 12.5%
+  - Max Amount: 600000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements from other banks; Income proof; Bank statement; Credit report
+
+- **PERSONAL Loan**
+  - Interest Rate: 14.0%
+  - Max Amount: 100000.0
+  - Requirements: National ID/Passport; Recent photo; Salary certificate; Bank statement (last 6 months)
+
+- **MEDICAL Loan**
+  - Interest Rate: 8.2%
+  - Max Amount: 200000.0
+  - Requirements: National ID/Passport; Medical reports; Hospital bills; Doctor's prescription; Income proof; Bank statement
+
+- **PERSONAL Loan**
+  - Interest Rate: 11.5%
+  - Max Amount: 100000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate; Bank statement (last 6 months); Employment certificate
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 10.0%
+  - Max Amount: 350000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements from other banks; Income proof; Bank statement (last 6 months); Credit report
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 14.5%
+  - Max Amount: 500000.0
+  - Requirements: National ID/Passport; Property ownership documents; Construction/Renovation estimate; Income proof; Bank statement (last 6 months); Building plan approval
+
+- **EDUCATION Loan**
+  - Interest Rate: 9.0%
+  - Max Amount: 80000.0
+  - Requirements: National ID/Passport; Admission letter from institution; Academic transcripts; Guardian's income proof; Tuition fee structure; Bank statement (last 6 months)
+
+- **MEDICAL Loan**
+  - Interest Rate: 8.5%
+  - Max Amount: 500000.0
+  - Requirements: National ID/Passport; Medical reports/Hospital bills; Doctor's prescription; Income proof; Bank statement (last 6 months)
+
+- **VENTURE Loan**
+  - Interest Rate: 13.0%
+  - Max Amount: 1200000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Business plan; Bank statement (last 12 months); Tax return documents; Collateral documents
+
+- **PERSONAL Loan**
+  - Interest Rate: 9.5%
+  - Max Amount: 200000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate; Bank statement (last 6 months); Employment certificate
+
+- **PERSONAL Loan**
+  - Interest Rate: 16.0%
+  - Max Amount: 50000.0
+  - Requirements: National ID/Passport; Income proof (e.g., utility bills); Bank statement (last 6 months); Local guarantor documents
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 12.0%
+  - Max Amount: 900000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements from other banks; Income proof; Bank statement (last 6 months); Credit report
+
+- **EDUCATION Loan**
+  - Interest Rate: 8.0%
+  - Max Amount: 150000.0
+  - Requirements: National ID/Passport; Admission letter from institution; Academic transcripts; Tuition fee structure; Bank statement (last 6 months)
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 17.0%
+  - Max Amount: 150000.0
+  - Requirements: National ID/Passport; Property ownership documents (leased land); Construction estimate; Income proof; Bank statement (last 6 months)
+
+- **MEDICAL Loan**
+  - Interest Rate: 10.5%
+  - Max Amount: 200000.0
+  - Requirements: National ID/Passport; Medical reports/Hospital bills; Doctor's prescription; Income proof; Bank statement (last 6 months)
+
+- **VENTURE Loan**
+  - Interest Rate: 11.0%
+  - Max Amount: 5000000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Extensive business plan; Bank statement (last 12 months); Tax return documents; Significant Collateral documents
+
+- **PERSONAL Loan**
+  - Interest Rate: 12.5%
+  - Max Amount: 250000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate; Bank statement (last 6 months); Employment certificate
+
+- **PERSONAL Loan**
+  - Interest Rate: 8.0%
+  - Max Amount: 100000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Pension documents/Income proof; Bank statement (last 6 months)
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 9.0%
+  - Max Amount: 1000000.0
+  - Requirements: National ID/Passport; Property ownership documents; Construction estimate; Income proof; Bank statement (last 6 months); Building plan approval
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 15.5%
+  - Max Amount: 600000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements from other banks; Income proof; Bank statement (last 6 months); Credit report
+
+- **EDUCATION Loan**
+  - Interest Rate: 18.0%
+  - Max Amount: 60000.0
+  - Requirements: National ID/Passport; Admission letter; Guardian's income proof (must be substantial); Tuition fee structure; Bank statement
+
+- **MEDICAL Loan**
+  - Interest Rate: 10.0%
+  - Max Amount: 50000.0
+  - Requirements: National ID/Passport; Medical reports; Income proof; Bank statement (last 6 months)
+
+- **VENTURE Loan**
+  - Interest Rate: 12.0%
+  - Max Amount: 300000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Business plan summary; Bank statement (last 12 months)
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 10.5%
+  - Max Amount: 2000000.0
+  - Requirements: National ID/Passport; Property ownership documents; Detailed construction estimate; Income proof; Bank statement (last 6 months); Building plan approval
+
+- **PERSONAL Loan**
+  - Interest Rate: 10.5%
+  - Max Amount: 150000.0
+  - Requirements: National ID/Passport; Salary certificate; Bank statement (last 6 months); Employment certificate
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 17.5%
+  - Max Amount: 400000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements from other banks; Income proof; Bank statement (last 6 months); Credit report
+
+- **EDUCATION Loan**
+  - Interest Rate: 8.0%
+  - Max Amount: 500000.0
+  - Requirements: National ID/Passport; Admission letter from top international university; Tuition fee structure; Bank statement
+
+- **MEDICAL Loan**
+  - Interest Rate: 13.0%
+  - Max Amount: 100000.0
+  - Requirements: National ID/Passport; Medical reports/Hospital bills; Income proof; Bank statement (last 6 months)
+
+- **VENTURE Loan**
+  - Interest Rate: 14.0%
+  - Max Amount: 700000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Detailed business plan; Bank statement (last 12 months); Collateral documents
+
+- **PERSONAL Loan**
+  - Interest Rate: 8.0%
+  - Max Amount: 150000.0
+  - Requirements: National ID/Passport; Pension book; Bank statement (last 6 months)
+
+- **PERSONAL Loan**
+  - Interest Rate: 15.0%
+  - Max Amount: 80000.0
+  - Requirements: National ID/Passport; Income proof; Bank statement (last 6 months); Guarantor signature
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 13.5%
+  - Max Amount: 800000.0
+  - Requirements: National ID/Passport; Property ownership documents; Construction estimate; Income proof; Bank statement (last 6 months)
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 9.5%
+  - Max Amount: 400000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements from other banks; Income proof; Bank statement (last 6 months); Credit report
+
+- **MEDICAL Loan**
+  - Interest Rate: 11.0%
+  - Max Amount: 50000.0
+  - Requirements: National ID/Passport; Medical reports; Doctor's prescription; Income proof; Bank statement (last 6 months)
+
+- **VENTURE Loan**
+  - Interest Rate: 16.5%
+  - Max Amount: 300000.0
+  - Requirements: National ID/Passport; Business registration (micro-enterprise); Trade license; Bank statement (last 12 months); High collateral requirement
+
+- **PERSONAL Loan**
+  - Interest Rate: 10.0%
+  - Max Amount: 150000.0
+  - Requirements: National ID/Passport; Salary certificate; Bank statement (last 6 months)
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 8.0%
+  - Max Amount: 3000000.0
+  - Requirements: National ID/Passport; Property ownership documents; Construction estimate (luxury); Income proof; Bank statement (last 6 months); Building plan approval
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 11.0%
+  - Max Amount: 600000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements from other banks; Income proof; Bank statement (last 6 months); Credit report
+
+- **EDUCATION Loan**
+  - Interest Rate: 9.5%
+  - Max Amount: 120000.0
+  - Requirements: National ID/Passport; Admission letter; Academic transcripts; Tuition fee structure; Bank statement (last 6 months)
+
+- **PERSONAL Loan**
+  - Interest Rate: 13.0%
+  - Max Amount: 150000.0
+  - Requirements: National ID/Passport; Income proof (small business); Bank statement (last 6 months)
+
+- **VENTURE Loan**
+  - Interest Rate: 10.5%
+  - Max Amount: 450000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Business plan; Bank statement (last 12 months); Tax return documents
+
+- **MEDICAL Loan**
+  - Interest Rate: 11.5%
+  - Max Amount: 300000.0
+  - Requirements: National ID/Passport; Medical reports/Hospital bills; Income proof; Bank statement (last 6 months)
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 16.0%
+  - Max Amount: 500000.0
+  - Requirements: National ID/Passport; Property ownership documents (ancestral land); Construction estimate; Income proof; Bank statement (last 6 months)
+
+- **PERSONAL Loan**
+  - Interest Rate: 8.5%
+  - Max Amount: 700000.0
+  - Requirements: National ID/Passport; Salary certificate; Bank statement (last 6 months); Employment certificate
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 13.5%
+  - Max Amount: 350000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements from other banks; Income proof; Bank statement (last 6 months); Credit report
+
+- **EDUCATION Loan**
+  - Interest Rate: 11.0%
+  - Max Amount: 100000.0
+  - Requirements: National ID/Passport; Admission letter; Academic transcripts; Guardian's income proof; Bank statement (last 6 months)
+
+- **PERSONAL Loan**
+  - Interest Rate: 17.0%
+  - Max Amount: 250000.0
+  - Requirements: National ID/Passport; Income proof (daily wage); Bank statement (last 6 months); Collateral required
+
+- **VENTURE Loan**
+  - Interest Rate: 12.5%
+  - Max Amount: 1500000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Detailed business plan; Bank statement (last 12 months); Tax return documents; Collateral documents
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 11.0%
+  - Max Amount: 400000.0
+  - Requirements: National ID/Passport; Property ownership documents; Construction estimate; Income proof; Bank statement (last 6 months); Building plan approval
+
+- **PERSONAL Loan**
+  - Interest Rate: 14.0%
+  - Max Amount: 50000.0
+  - Requirements: National ID/Passport; Income proof; Bank statement (last 6 months)
+
+- **MEDICAL Loan**
+  - Interest Rate: 8.0%
+  - Max Amount: 1000000.0
+  - Requirements: National ID/Passport; Medical reports (planned surgery); Income proof; Bank statement (last 6 months)
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 18.0%
+  - Max Amount: 700000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements from other banks; Income proof (low); Bank statement; Detailed explanation for defaults
+
+- **EDUCATION Loan**
+  - Interest Rate: 9.0%
+  - Max Amount: 100000.0
+  - Requirements: National ID/Passport; Admission letter; Academic transcripts (for child); Tuition fee structure; Bank statement
+
+- **PERSONAL Loan**
+  - Interest Rate: 12.0%
+  - Max Amount: 200000.0
+  - Requirements: National ID/Passport; Income proof (farming/remittance); Bank statement (last 6 months)
+
+- **VENTURE Loan**
+  - Interest Rate: 11.5%
+  - Max Amount: 2000000.0
+  - Requirements: National ID/Passport; Comprehensive business plan (Tech Startup); Trade license; Bank statement (last 12 months); Collateral documents (equity pledge)
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 15.0%
+  - Max Amount: 600000.0
+  - Requirements: National ID/Passport; Property ownership documents; Construction estimate; Income proof; Bank statement (last 6 months)
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 9.0%
+  - Max Amount: 500000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements from other banks; Income proof; Bank statement (last 6 months); Credit report
+
+- **PERSONAL Loan**
+  - Interest Rate: 16.5%
+  - Max Amount: 70000.0
+  - Requirements: National ID/Passport; Income proof (e.g., shopkeeper); Bank statement (last 6 months)
+
+- **MEDICAL Loan**
+  - Interest Rate: 9.5%
+  - Max Amount: 100000.0
+  - Requirements: National ID/Passport; Medical reports; Income proof; Bank statement (last 6 months)
+
+- **EDUCATION Loan**
+  - Interest Rate: 8.5%
+  - Max Amount: 1000000.0
+  - Requirements: National ID/Passport; Admission letter (PhD program abroad); Tuition fee structure; Bank statement
+
+- **VENTURE Loan**
+  - Interest Rate: 15.0%
+  - Max Amount: 800000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Tax return documents (poor history); Bank statement (last 12 months); High interest reflects high risk
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 10.0%
+  - Max Amount: 250000.0
+  - Requirements: National ID/Passport; Property ownership documents; Renovation estimate; Income proof; Bank statement (last 6 months)
+
+- **PERSONAL Loan**
+  - Interest Rate: 11.0%
+  - Max Amount: 150000.0
+  - Requirements: National ID/Passport; Guarantor documents; Offer letter/First salary slip; Bank statement
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 17.0%
+  - Max Amount: 400000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements; Income proof (irregular); Bank statement; Collateral required
+
+- **PERSONAL Loan**
+  - Interest Rate: 8.5%
+  - Max Amount: 500000.0
+  - Requirements: National ID/Passport; Salary certificate; Bank statement (last 6 months); Employment certificate
+
+- **MEDICAL Loan**
+  - Interest Rate: 10.0%
+  - Max Amount: 100000.0
+  - Requirements: National ID/Passport; Medical bills; Doctor's prescription; Income proof; Bank statement (last 6 months)
+
+- **EDUCATION Loan**
+  - Interest Rate: 13.0%
+  - Max Amount: 60000.0
+  - Requirements: National ID/Passport; Admission letter; Academic transcripts; Guardian's income proof; Bank statement (last 6 months)
+
+- **VENTURE Loan**
+  - Interest Rate: 9.5%
+  - Max Amount: 4000000.0
+  - Requirements: National ID/Passport; Business registration documents (large company); Trade license; Business plan; Bank statement (last 12 months); Tax return documents (high value); Collateral documents
+
+- **PERSONAL Loan**
+  - Interest Rate: 18.0%
+  - Max Amount: 100000.0
+  - Requirements: National ID/Passport; Income proof (minimal); Bank statement (last 6 months); Detailed explanation of past defaults; High risk assessed
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 11.5%
+  - Max Amount: 250000.0
+  - Requirements: National ID/Passport; Property ownership documents; Construction estimate; Income proof; Bank statement (last 6 months)
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 16.0%
+  - Max Amount: 500000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements; Income proof; Bank statement (last 6 months); Credit report
+
+- **PERSONAL Loan**
+  - Interest Rate: 8.0%
+  - Max Amount: 500000.0
+  - Requirements: National ID/Passport; Salary certificate; Bank statement (last 6 months)
+
+- **MEDICAL Loan**
+  - Interest Rate: 9.0%
+  - Max Amount: 150000.0
+  - Requirements: National ID/Passport; Medical reports; Income proof; Bank statement (last 6 months)
+
+- **VENTURE Loan**
+  - Interest Rate: 13.5%
+  - Max Amount: 1000000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Business plan; Bank statement (last 12 months); Collateral documents
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 11.0%
+  - Max Amount: 200000.0
+  - Requirements: National ID/Passport; Property ownership documents; Renovation estimate; Income proof; Bank statement (last 6 months)
+
+- **PERSONAL Loan**
+  - Interest Rate: 17.5%
+  - Max Amount: 50000.0
+  - Requirements: National ID/Passport; Income proof (parent/guarantor); Bank statement; Affidavit of support
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 14.5%
+  - Max Amount: 300000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements; Income proof; Bank statement (last 6 months); Credit report
+
+- **PERSONAL Loan**
+  - Interest Rate: 9.0%
+  - Max Amount: 800000.0
+  - Requirements: National ID/Passport; Salary certificate; Bank statement (last 6 months); Employment certificate
+
+- **MEDICAL Loan**
+  - Interest Rate: 15.0%
+  - Max Amount: 150000.0
+  - Requirements: National ID/Passport; Medical reports; Income proof (low); Bank statement; Guarantor required
+
+- **EDUCATION Loan**
+  - Interest Rate: 10.0%
+  - Max Amount: 120000.0
+  - Requirements: National ID/Passport; Admission letter; Academic transcripts; Guardian's income proof; Bank statement
+
+- **VENTURE Loan**
+  - Interest Rate: 14.0%
+  - Max Amount: 1500000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Business plan (high capital request); Bank statement (last 12 months); High collateral required
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 9.5%
+  - Max Amount: 2500000.0
+  - Requirements: National ID/Passport; Property ownership documents; Detailed construction estimate; Income proof; Bank statement (last 6 months); Building plan approval
+
+- **PERSONAL Loan**
+  - Interest Rate: 10.5%
+  - Max Amount: 300000.0
+  - Requirements: National ID/Passport; Salary certificate; Bank statement (last 6 months); Employment certificate
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 16.5%
+  - Max Amount: 50000.0
+  - Requirements: National ID/Passport; List of existing debts (small amounts); Loan statements; Income proof; Bank statement
+
+- **MEDICAL Loan**
+  - Interest Rate: 8.0%
+  - Max Amount: 1200000.0
+  - Requirements: National ID/Passport; Medical reports; Income proof; Bank statement (last 6 months)
+
+- **EDUCATION Loan**
+  - Interest Rate: 8.5%
+  - Max Amount: 250000.0
+  - Requirements: National ID/Passport; Admission letter; Tuition fee structure; Bank statement
+
+- **VENTURE Loan**
+  - Interest Rate: 12.0%
+  - Max Amount: 1000000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Business plan; Bank statement (last 12 months); Tax return documents
+
+- **PERSONAL Loan**
+  - Interest Rate: 13.0%
+  - Max Amount: 150000.0
+  - Requirements: National ID/Passport; Salary certificate; Bank statement (last 6 months)
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 11.0%
+  - Max Amount: 200000.0
+  - Requirements: National ID/Passport; Property ownership documents; Renovation estimate; Income proof; Bank statement (last 6 months)
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 18.0%
+  - Max Amount: 350000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements (multiple defaults); Income proof (very low); Bank statement; Extreme collateral required
+
+- **PERSONAL Loan**
+  - Interest Rate: 9.0%
+  - Max Amount: 700000.0
+  - Requirements: National ID/Passport; Salary certificate; Bank statement (last 6 months); Employment certificate
+
+- **MEDICAL Loan**
+  - Interest Rate: 10.5%
+  - Max Amount: 100000.0
+  - Requirements: National ID/Passport; Medical reports/Hospital bills; Doctor's prescription; Income proof; Bank statement (last 6 months)
+
+- **EDUCATION Loan**
+  - Interest Rate: 8.0%
+  - Max Amount: 500000.0
+  - Requirements: National ID/Passport; Admission letter; Tuition fee structure; Bank statement
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 12.5%
+  - Max Amount: 250000.0
+  - Requirements: National ID/Passport; Property ownership documents; Construction estimate; Income proof; Bank statement (last 6 months)
+
+- **VENTURE Loan**
+  - Interest Rate: 13.0%
+  - Max Amount: 1500000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Business plan; Bank statement (last 12 months); Collateral documents
+
+- **PERSONAL Loan**
+  - Interest Rate: 14.5%
+  - Max Amount: 100000.0
+  - Requirements: National ID/Passport;
+
+- **False Loan**
+  - Interest Rate: 0.0%
+  - Max Amount: 0.0
+  - Requirements: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2.
+
+- **PERSONAL Loan**
+  - Interest Rate: 13.5%
+  - Max Amount: 150000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate; Bank statement (last 6 months); Employment certificate
+
+- **EDUCATION Loan**
+  - Interest Rate: 10.0%
+  - Max Amount: 250000.0
+  - Requirements: National ID/Passport; Admission letter; Academic transcripts; Guardian's income proof; Tuition fee structure; Bank statement
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 15.0%
+  - Max Amount: 400000.0
+  - Requirements: National ID/Passport; Property ownership documents; Construction/Renovation estimate; Income proof; Bank statement; Building plan approval
+
+- **VENTURE Loan**
+  - Interest Rate: 12.5%
+  - Max Amount: 700000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Business plan; Bank statement (last 12 months); Tax return documents; Collateral documents
+
+- **MEDICAL Loan**
+  - Interest Rate: 16.0%
+  - Max Amount: 100000.0
+  - Requirements: National ID/Passport; Medical reports/Hospital bills; Doctor's prescription; Income proof; Bank statement
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 11.5%
+  - Max Amount: 350000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements from other banks; Income proof; Bank statement; Credit report
+
+- **PERSONAL Loan**
+  - Interest Rate: 14.5%
+  - Max Amount: 80000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate; Bank statement (last 6 months); Employment certificate
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 9.0%
+  - Max Amount: 1500000.0
+  - Requirements: National ID/Passport; Property ownership documents; Construction/Renovation estimate; Income proof; Bank statement; Building plan approval
+
+- **EDUCATION Loan**
+  - Interest Rate: 17.0%
+  - Max Amount: 50000.0
+  - Requirements: National ID/Passport; Admission letter; Academic transcripts; Guardian's income proof; Tuition fee structure; Bank statement
+
+- **VENTURE Loan**
+  - Interest Rate: 14.0%
+  - Max Amount: 600000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Business plan; Bank statement (last 12 months); Tax return documents; Collateral documents
+
+- **PERSONAL Loan**
+  - Interest Rate: 10.5%
+  - Max Amount: 400000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate; Bank statement (last 6 months); Employment certificate
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 13.0%
+  - Max Amount: 900000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements from other banks; Income proof; Bank statement; Credit report
+
+- **MEDICAL Loan**
+  - Interest Rate: 8.5%
+  - Max Amount: 250000.0
+  - Requirements: National ID/Passport; Medical reports/Hospital bills; Doctor's prescription; Income proof; Bank statement
+
+- **EDUCATION Loan**
+  - Interest Rate: 11.0%
+  - Max Amount: 120000.0
+  - Requirements: National ID/Passport; Admission letter; Academic transcripts; Guardian's income proof; Tuition fee structure; Bank statement
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 18.0%
+  - Max Amount: 200000.0
+  - Requirements: National ID/Passport; Property ownership documents; Construction/Renovation estimate; Income proof; Bank statement; Building plan approval
+
+- **VENTURE Loan**
+  - Interest Rate: 9.5%
+  - Max Amount: 500000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Business plan; Bank statement (last 12 months); Tax return documents
+
+- **PERSONAL Loan**
+  - Interest Rate: 15.5%
+  - Max Amount: 300000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate; Bank statement (last 6 months); Employment certificate
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 14.0%
+  - Max Amount: 200000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements from other banks; Income proof; Bank statement; Credit report
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 10.0%
+  - Max Amount: 4500000.0
+  - Requirements: National ID/Passport; Property ownership documents; Construction/Renovation estimate; Income proof; Bank statement; Building plan approval
+
+- **MEDICAL Loan**
+  - Interest Rate: 12.0%
+  - Max Amount: 500000.0
+  - Requirements: National ID/Passport; Medical reports/Hospital bills; Doctor's prescription; Income proof; Bank statement
+
+- **PERSONAL Loan**
+  - Interest Rate: 16.5%
+  - Max Amount: 150000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate; Bank statement (last 6 months); Employment certificate
+
+- **EDUCATION Loan**
+  - Interest Rate: 13.0%
+  - Max Amount: 100000.0
+  - Requirements: National ID/Passport; Admission letter; Academic transcripts; Guardian's income proof; Tuition fee structure; Bank statement
+
+- **VENTURE Loan**
+  - Interest Rate: 11.0%
+  - Max Amount: 1800000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Business plan; Bank statement (last 12 months); Tax return documents; Collateral documents
+
+- **PERSONAL Loan**
+  - Interest Rate: 17.5%
+  - Max Amount: 50000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate; Bank statement (last 6 months); Employment certificate
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 12.5%
+  - Max Amount: 300000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements from other banks; Income proof; Bank statement; Credit report
+
+- **MEDICAL Loan**
+  - Interest Rate: 8.0%
+  - Max Amount: 500000.0
+  - Requirements: National ID/Passport; Medical reports/Hospital bills; Doctor's prescription; Income proof; Bank statement
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 15.0%
+  - Max Amount: 450000.0
+  - Requirements: National ID/Passport; Property ownership documents; Construction/Renovation estimate; Income proof; Bank statement; Building plan approval
+
+- **VENTURE Loan**
+  - Interest Rate: 10.5%
+  - Max Amount: 1000000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Business plan; Bank statement (last 12 months); Tax return documents; Collateral documents
+
+- **PERSONAL Loan**
+  - Interest Rate: 16.0%
+  - Max Amount: 80000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate; Bank statement (last 6 months); Employment certificate
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 13.5%
+  - Max Amount: 650000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements from other banks; Income proof; Bank statement; Credit report
+
+- **EDUCATION Loan**
+  - Interest Rate: 9.5%
+  - Max Amount: 200000.0
+  - Requirements: National ID/Passport; Admission letter; Academic transcripts; Guardian's income proof; Tuition fee structure; Bank statement
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 8.5%
+  - Max Amount: 3000000.0
+  - Requirements: National ID/Passport; Property ownership documents; Construction/Renovation estimate; Income proof; Bank statement; Building plan approval
+
+- **MEDICAL Loan**
+  - Interest Rate: 14.0%
+  - Max Amount: 150000.0
+  - Requirements: National ID/Passport; Medical reports/Hospital bills; Doctor's prescription; Income proof; Bank statement
+
+- **PERSONAL Loan**
+  - Interest Rate: 15.5%
+  - Max Amount: 250000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate; Bank statement (last 6 months); Employment certificate
+
+- **PERSONAL Loan**
+  - Interest Rate: 17.0%
+  - Max Amount: 70000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate; Bank statement (last 6 months); Employment certificate
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 11.0%
+  - Max Amount: 500000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements from other banks; Income proof; Bank statement; Credit report
+
+- **VENTURE Loan**
+  - Interest Rate: 13.0%
+  - Max Amount: 400000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Business plan; Bank statement (last 12 months); Tax return documents
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 16.0%
+  - Max Amount: 350000.0
+  - Requirements: National ID/Passport; Property ownership documents; Construction/Renovation estimate; Income proof; Bank statement; Building plan approval
+
+- **EDUCATION Loan**
+  - Interest Rate: 8.0%
+  - Max Amount: 100000.0
+  - Requirements: National ID/Passport; Admission letter; Academic transcripts; Guardian's income proof; Tuition fee structure; Bank statement
+
+- **MEDICAL Loan**
+  - Interest Rate: 12.5%
+  - Max Amount: 300000.0
+  - Requirements: National ID/Passport; Medical reports/Hospital bills; Doctor's prescription; Income proof; Bank statement
+
+- **PERSONAL Loan**
+  - Interest Rate: 13.5%
+  - Max Amount: 250000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate; Bank statement (last 6 months); Employment certificate
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 17.0%
+  - Max Amount: 120000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements from other banks; Income proof; Bank statement; Credit report
+
+- **VENTURE Loan**
+  - Interest Rate: 10.0%
+  - Max Amount: 2000000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Business plan; Bank statement (last 12 months); Tax return documents; Collateral documents
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 14.5%
+  - Max Amount: 500000.0
+  - Requirements: National ID/Passport; Property ownership documents; Construction/Renovation estimate; Income proof; Bank statement; Building plan approval
+
+- **PERSONAL Loan**
+  - Interest Rate: 9.0%
+  - Max Amount: 600000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate; Bank statement (last 6 months); Employment certificate
+
+- **EDUCATION Loan**
+  - Interest Rate: 11.5%
+  - Max Amount: 150000.0
+  - Requirements: National ID/Passport; Admission letter; Academic transcripts; Guardian's income proof; Tuition fee structure; Bank statement
+
+- **MEDICAL Loan**
+  - Interest Rate: 10.5%
+  - Max Amount: 400000.0
+  - Requirements: National ID/Passport; Medical reports/Hospital bills; Doctor's prescription; Income proof; Bank statement
+
+- **PERSONAL Loan**
+  - Interest Rate: 16.5%
+  - Max Amount: 150000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate; Bank statement (last 6 months); Employment certificate
+
+- **PERSONAL Loan**
+  - Interest Rate: 18.0%
+  - Max Amount: 50000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate; Bank statement (last 6 months); Employment certificate
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 14.0%
+  - Max Amount: 400000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements from other banks; Income proof; Bank statement; Credit report
+
+- **VENTURE Loan**
+  - Interest Rate: 8.5%
+  - Max Amount: 1000000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Business plan; Bank statement (last 12 months); Tax return documents; Collateral documents
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 13.0%
+  - Max Amount: 800000.0
+  - Requirements: National ID/Passport; Property ownership documents; Construction/Renovation estimate; Income proof; Bank statement; Building plan approval
+
+- **MEDICAL Loan**
+  - Interest Rate: 17.0%
+  - Max Amount: 100000.0
+  - Requirements: National ID/Passport; Medical reports/Hospital bills; Doctor's prescription; Income proof; Bank statement
+
+- **EDUCATION Loan**
+  - Interest Rate: 10.0%
+  - Max Amount: 200000.0
+  - Requirements: National ID/Passport; Admission letter; Academic transcripts; Guardian's income proof; Tuition fee structure; Bank statement
+
+- **PERSONAL Loan**
+  - Interest Rate: 15.5%
+  - Max Amount: 250000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate; Bank statement (last 6 months); Employment certificate
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 11.5%
+  - Max Amount: 400000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements from other banks; Income proof; Bank statement; Credit report
+
+- **VENTURE Loan**
+  - Interest Rate: 12.0%
+  - Max Amount: 1500000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Business plan; Bank statement (last 12 months); Tax return documents; Collateral documents
+
+- **PERSONAL Loan**
+  - Interest Rate: 14.5%
+  - Max Amount: 100000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate; Bank statement (last 6 months); Employment certificate
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 17.5%
+  - Max Amount: 300000.0
+  - Requirements: National ID/Passport; Property ownership documents; Construction/Renovation estimate; Income proof; Bank statement; Building plan approval
+
+- **MEDICAL Loan**
+  - Interest Rate: 9.5%
+  - Max Amount: 800000.0
+  - Requirements: National ID/Passport; Medical reports/Hospital bills; Doctor's prescription; Income proof; Bank statement
+
+- **EDUCATION Loan**
+  - Interest Rate: 8.5%
+  - Max Amount: 500000.0
+  - Requirements: National ID/Passport; Admission letter; Academic transcripts; Guardian's income proof; Tuition fee structure; Bank statement
+
+- **PERSONAL Loan**
+  - Interest Rate: 16.0%
+  - Max Amount: 60000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate; Bank statement (last 6 months); Employment certificate
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 13.0%
+  - Max Amount: 700000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements from other banks; Income proof; Bank statement; Credit report
+
+- **VENTURE Loan**
+  - Interest Rate: 10.0%
+  - Max Amount: 2500000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Business plan; Bank statement (last 12 months); Tax return documents; Collateral documents
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 16.5%
+  - Max Amount: 150000.0
+  - Requirements: National ID/Passport; Property ownership documents; Construction/Renovation estimate; Income proof; Bank statement; Building plan approval
+
+- **PERSONAL Loan**
+  - Interest Rate: 12.5%
+  - Max Amount: 200000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate; Bank statement (last 6 months); Employment certificate
+
+- **MEDICAL Loan**
+  - Interest Rate: 8.0%
+  - Max Amount: 200000.0
+  - Requirements: National ID/Passport; Medical reports/Hospital bills; Doctor's prescription; Income proof; Bank statement
+
+- **EDUCATION Loan**
+  - Interest Rate: 15.0%
+  - Max Amount: 80000.0
+  - Requirements: National ID/Passport; Admission letter; Academic transcripts; Guardian's income proof; Tuition fee structure; Bank statement
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 10.5%
+  - Max Amount: 500000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements from other banks; Income proof; Bank statement; Credit report
+
+- **VENTURE Loan**
+  - Interest Rate: 14.0%
+  - Max Amount: 300000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Business plan; Bank statement (last 12 months); Tax return documents
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 15.5%
+  - Max Amount: 600000.0
+  - Requirements: National ID/Passport; Property ownership documents; Construction/Renovation estimate; Income proof; Bank statement; Building plan approval
+
+- **PERSONAL Loan**
+  - Interest Rate: 11.0%
+  - Max Amount: 350000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate; Bank statement (last 6 months); Employment certificate
+
+- **MEDICAL Loan**
+  - Interest Rate: 12.5%
+  - Max Amount: 400000.0
+  - Requirements: National ID/Passport; Medical reports/Hospital bills; Doctor's prescription; Income proof; Bank statement
+
+- **PERSONAL Loan**
+  - Interest Rate: 17.5%
+  - Max Amount: 75000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate; Bank statement (last 6 months); Employment certificate
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 16.0%
+  - Max Amount: 120000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements from other banks; Income proof; Bank statement; Credit report
+
+- **EDUCATION Loan**
+  - Interest Rate: 9.0%
+  - Max Amount: 150000.0
+  - Requirements: National ID/Passport; Admission letter; Academic transcripts; Guardian's income proof; Tuition fee structure; Bank statement
+
+- **VENTURE Loan**
+  - Interest Rate: 13.5%
+  - Max Amount: 900000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Business plan; Bank statement (last 12 months); Tax return documents; Collateral documents
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 9.5%
+  - Max Amount: 4000000.0
+  - Requirements: National ID/Passport; Property ownership documents; Construction/Renovation estimate; Income proof; Bank statement; Building plan approval
+
+- **PERSONAL Loan**
+  - Interest Rate: 14.0%
+  - Max Amount: 120000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate; Bank statement (last 6 months); Employment certificate
+
+- **MEDICAL Loan**
+  - Interest Rate: 15.0%
+  - Max Amount: 100000.0
+  - Requirements: National ID/Passport; Medical reports/Hospital bills; Doctor's prescription; Income proof; Bank statement
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 10.0%
+  - Max Amount: 300000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements from other banks; Income proof; Bank statement; Credit report
+
+- **VENTURE Loan**
+  - Interest Rate: 12.5%
+  - Max Amount: 500000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Business plan; Bank statement (last 12 months); Tax return documents
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 18.0%
+  - Max Amount: 250000.0
+  - Requirements: National ID/Passport; Property ownership documents; Construction/Renovation estimate; Income proof; Bank statement; Building plan approval
+
+- **PERSONAL Loan**
+  - Interest Rate: 13.0%
+  - Max Amount: 200000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate; Bank statement (last 6 months); Employment certificate
+
+- **EDUCATION Loan**
+  - Interest Rate: 11.5%
+  - Max Amount: 150000.0
+  - Requirements: National ID/Passport; Admission letter; Academic transcripts; Guardian's income proof; Tuition fee structure; Bank statement
+
+- **PERSONAL Loan**
+  - Interest Rate: 17.0%
+  - Max Amount: 50000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate; Bank statement (last 6 months); Employment certificate
+
+- **MEDICAL Loan**
+  - Interest Rate: 9.0%
+  - Max Amount: 700000.0
+  - Requirements: National ID/Passport; Medical reports/Hospital bills; Doctor's prescription; Income proof; Bank statement
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 15.5%
+  - Max Amount: 90000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements from other banks; Income proof; Bank statement; Credit report
+
+- **VENTURE Loan**
+  - Interest Rate: 10.5%
+  - Max Amount: 3000000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Business plan; Bank statement (last 12 months); Tax return documents; Collateral documents
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 14.5%
+  - Max Amount: 350000.0
+  - Requirements: National ID/Passport; Property ownership documents; Construction/Renovation estimate; Income proof; Bank statement; Building plan approval
+
+- **PERSONAL Loan**
+  - Interest Rate: 15.0%
+  - Max Amount: 100000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate; Bank statement (last 6 months); Employment certificate
+
+- **PERSONAL Loan**
+  - Interest Rate: 18.0%
+  - Max Amount: 150000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate; Bank statement (last 6 months); Employment certificate
+
+- **MEDICAL Loan**
+  - Interest Rate: 11.0%
+  - Max Amount: 250000.0
+  - Requirements: National ID/Passport; Medical reports/Hospital bills; Doctor's prescription; Income proof; Bank statement
+
+- **EDUCATION Loan**
+  - Interest Rate: 13.5%
+  - Max Amount: 100000.0
+  - Requirements: National ID/Passport; Admission letter; Academic transcripts; Guardian's income proof; Tuition fee structure; Bank statement
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 8.5%
+  - Max Amount: 1500000.0
+  - Requirements: National ID/Passport; List of existing debts
+
+- **PERSONAL Loan**
+  - Interest Rate: 10.5%
+  - Max Amount: 150000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate; Bank statement (last 6 months); Employment certificate
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 9.0%
+  - Max Amount: 1000000.0
+  - Requirements: National ID/Passport; Property ownership documents; Construction/Renovation estimate; Income proof; Bank statement; Building plan approval
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 17.5%
+  - Max Amount: 250000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements from other banks; Income proof; Bank statement; Credit report
+
+- **EDUCATION Loan**
+  - Interest Rate: 11.0%
+  - Max Amount: 80000.0
+  - Requirements: National ID/Passport; Admission letter from institution; Academic transcripts; Guardian's income proof; Tuition fee structure; Bank statement
+
+- **VENTURE Loan**
+  - Interest Rate: 8.5%
+  - Max Amount: 3000000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Business plan; Bank statement (last 12 months); Tax return documents; Collateral documents
+
+- **MEDICAL Loan**
+  - Interest Rate: 12.0%
+  - Max Amount: 450000.0
+  - Requirements: National ID/Passport; Medical reports/Hospital bills; Doctor's prescription; Income proof; Bank statement
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 9.5%
+  - Max Amount: 5000000.0
+  - Requirements: National ID/Passport; Property ownership documents; Construction/Renovation estimate; Income proof; Bank statement; Building plan approval
+
+- **PERSONAL Loan**
+  - Interest Rate: 14.0%
+  - Max Amount: 50000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate/Income proof; Bank statement (last 6 months); Employment certificate
+
+- **MEDICAL Loan**
+  - Interest Rate: 18.0%
+  - Max Amount: 100000.0
+  - Requirements: National ID/Passport; Medical reports/Hospital bills; Doctor's prescription; Income proof; Bank statement
+
+- **VENTURE Loan**
+  - Interest Rate: 10.0%
+  - Max Amount: 700000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Business plan; Bank statement (last 12 months); Tax return documents; Collateral documents
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 16.5%
+  - Max Amount: 350000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements from other banks; Income proof; Bank statement; Credit report
+
+- **PERSONAL Loan**
+  - Interest Rate: 15.5%
+  - Max Amount: 60000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate/Income proof; Bank statement (last 6 months); Employment certificate
+
+- **VENTURE Loan**
+  - Interest Rate: 8.0%
+  - Max Amount: 1500000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Business plan; Bank statement (last 12 months); Tax return documents; Collateral documents
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 13.5%
+  - Max Amount: 400000.0
+  - Requirements: National ID/Passport; Property ownership documents; Construction/Renovation estimate; Income proof; Bank statement; Building plan approval
+
+- **EDUCATION Loan**
+  - Interest Rate: 10.5%
+  - Max Amount: 200000.0
+  - Requirements: National ID/Passport; Admission letter from institution; Academic transcripts; Guardian's income proof; Tuition fee structure; Bank statement
+
+- **PERSONAL Loan**
+  - Interest Rate: 11.5%
+  - Max Amount: 50000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate/Income proof; Bank statement (last 6 months); Employment certificate
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 12.5%
+  - Max Amount: 650000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements from other banks; Income proof; Bank statement; Credit report
+
+- **VENTURE Loan**
+  - Interest Rate: 9.8%
+  - Max Amount: 1200000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Business plan; Bank statement (last 12 months); Tax return documents; Collateral documents
+
+- **MEDICAL Loan**
+  - Interest Rate: 15.0%
+  - Max Amount: 150000.0
+  - Requirements: National ID/Passport; Medical reports/Hospital bills; Doctor's prescription; Income proof; Bank statement
+
+- **PERSONAL Loan**
+  - Interest Rate: 13.0%
+  - Max Amount: 100000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate/Income proof; Bank statement (last 6 months); Employment certificate
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 8.8%
+  - Max Amount: 2000000.0
+  - Requirements: National ID/Passport; Property ownership documents; Construction/Renovation estimate; Income proof; Bank statement; Building plan approval
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 17.0%
+  - Max Amount: 150000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements from other banks; Income proof; Bank statement; Credit report
+
+- **PERSONAL Loan**
+  - Interest Rate: 11.5%
+  - Max Amount: 300000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate; Bank statement (last 6 months); Employment certificate
+
+- **VENTURE Loan**
+  - Interest Rate: 12.5%
+  - Max Amount: 500000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Business plan; Bank statement (last 12 months); Tax return documents; Collateral documents
+
+- **EDUCATION Loan**
+  - Interest Rate: 14.5%
+  - Max Amount: 75000.0
+  - Requirements: National ID/Passport; Admission letter from institution; Academic transcripts; Guardian's income proof; Tuition fee structure; Bank statement
+
+- **VENTURE Loan**
+  - Interest Rate: 9.2%
+  - Max Amount: 4000000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Business plan; Bank statement (last 12 months); Tax return documents; Collateral documents
+
+- **MEDICAL Loan**
+  - Interest Rate: 16.0%
+  - Max Amount: 120000.0
+  - Requirements: National ID/Passport; Medical reports/Hospital bills; Doctor's prescription; Income proof; Bank statement
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 10.0%
+  - Max Amount: 750000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements from other banks; Income proof; Bank statement; Credit report
+
+- **PERSONAL Loan**
+  - Interest Rate: 12.0%
+  - Max Amount: 200000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate/Income proof; Bank statement (last 6 months); Employment certificate
+
+- **PERSONAL Loan**
+  - Interest Rate: 13.8%
+  - Max Amount: 50000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate/Income proof; Bank statement (last 6 months); Employment certificate
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 11.5%
+  - Max Amount: 350000.0
+  - Requirements: National ID/Passport; Property ownership documents; Construction/Renovation estimate; Income proof; Bank statement; Building plan approval
+
+- **MEDICAL Loan**
+  - Interest Rate: 13.0%
+  - Max Amount: 300000.0
+  - Requirements: National ID/Passport; Medical reports/Hospital bills; Doctor's prescription; Income proof; Bank statement
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 18.0%
+  - Max Amount: 180000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements from other banks; Income proof; Bank statement; Credit report
+
+- **PERSONAL Loan**
+  - Interest Rate: 16.5%
+  - Max Amount: 50000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate/Income proof; Bank statement (last 6 months); Employment certificate
+
+- **VENTURE Loan**
+  - Interest Rate: 9.0%
+  - Max Amount: 1500000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Business plan; Bank statement (last 12 months); Tax return documents; Collateral documents
+
+- **EDUCATION Loan**
+  - Interest Rate: 12.5%
+  - Max Amount: 150000.0
+  - Requirements: National ID/Passport; Admission letter from institution; Academic transcripts; Guardian's income proof; Tuition fee structure; Bank statement
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 14.5%
+  - Max Amount: 250000.0
+  - Requirements: National ID/Passport; Property ownership documents; Construction/Renovation estimate; Income proof; Bank statement; Building plan approval
+
+- **PERSONAL Loan**
+  - Interest Rate: 8.5%
+  - Max Amount: 800000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate; Bank statement (last 6 months); Employment certificate
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 16.0%
+  - Max Amount: 300000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements from other banks; Income proof; Bank statement; Credit report
+
+- **MEDICAL Loan**
+  - Interest Rate: 10.0%
+  - Max Amount: 600000.0
+  - Requirements: National ID/Passport; Medical reports/Hospital bills; Doctor's prescription; Income proof; Bank statement
+
+- **PERSONAL Loan**
+  - Interest Rate: 13.5%
+  - Max Amount: 200000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate/Income proof; Bank statement (last 6 months); Employment certificate
+
+- **PERSONAL Loan**
+  - Interest Rate: 11.0%
+  - Max Amount: 100000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate/Income proof; Bank statement (last 6 months); Employment certificate
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 10.5%
+  - Max Amount: 550000.0
+  - Requirements: National ID/Passport; Property ownership documents; Construction/Renovation estimate; Income proof; Bank statement; Building plan approval
+
+- **MEDICAL Loan**
+  - Interest Rate: 15.5%
+  - Max Amount: 150000.0
+  - Requirements: National ID/Passport; Medical reports/Hospital bills; Doctor's prescription; Income proof; Bank statement
+
+- **VENTURE Loan**
+  - Interest Rate: 9.5%
+  - Max Amount: 700000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Business plan; Bank statement (last 12 months); Tax return documents; Collateral documents
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 17.8%
+  - Max Amount: 120000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements from other banks; Income proof; Bank statement; Credit report
+
+- **EDUCATION Loan**
+  - Interest Rate: 13.0%
+  - Max Amount: 100000.0
+  - Requirements: National ID/Passport; Admission letter from institution; Academic transcripts; Guardian's income proof; Tuition fee structure; Bank statement
+
+- **VENTURE Loan**
+  - Interest Rate: 8.2%
+  - Max Amount: 1800000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Business plan; Bank statement (last 12 months); Tax return documents; Collateral documents
+
+- **PERSONAL Loan**
+  - Interest Rate: 14.0%
+  - Max Amount: 100000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate/Income proof; Bank statement (last 6 months); Employment certificate
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 13.5%
+  - Max Amount: 350000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements from other banks; Income proof; Bank statement; Credit report
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 11.8%
+  - Max Amount: 400000.0
+  - Requirements: National ID/Passport; Property ownership documents; Construction/Renovation estimate; Income proof; Bank statement; Building plan approval
+
+- **PERSONAL Loan**
+  - Interest Rate: 10.0%
+  - Max Amount: 250000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate; Bank statement (last 6 months); Employment certificate
+
+- **MEDICAL Loan**
+  - Interest Rate: 17.5%
+  - Max Amount: 80000.0
+  - Requirements: National ID/Passport; Medical reports/Hospital bills; Doctor's prescription; Income proof; Bank statement
+
+- **EDUCATION Loan**
+  - Interest Rate: 13.5%
+  - Max Amount: 120000.0
+  - Requirements: National ID/Passport; Admission letter from institution; Academic transcripts; Guardian's income proof; Tuition fee structure; Bank statement
+
+- **PERSONAL Loan**
+  - Interest Rate: 8.0%
+  - Max Amount: 500000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate; Bank statement (last 6 months); Employment certificate
+
+- **MEDICAL Loan**
+  - Interest Rate: 14.8%
+  - Max Amount: 200000.0
+  - Requirements: National ID/Passport; Medical reports/Hospital bills; Doctor's prescription; Income proof; Bank statement
+
+- **VENTURE Loan**
+  - Interest Rate: 11.0%
+  - Max Amount: 750000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Business plan; Bank statement (last 12 months); Tax return documents; Collateral documents
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 9.5%
+  - Max Amount: 600000.0
+  - Requirements: National ID/Passport; Property ownership documents; Construction/Renovation estimate; Income proof; Bank statement; Building plan approval
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 18.0%
+  - Max Amount: 220000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements from other banks; Income proof; Bank statement; Credit report
+
+- **PERSONAL Loan**
+  - Interest Rate: 15.0%
+  - Max Amount: 70000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate/Income proof; Bank statement (last 6 months); Employment certificate
+
+- **EDUCATION Loan**
+  - Interest Rate: 11.5%
+  - Max Amount: 150000.0
+  - Requirements: National ID/Passport; Admission letter from institution; Academic transcripts; Guardian's income proof; Tuition fee structure; Bank statement
+
+- **VENTURE Loan**
+  - Interest Rate: 8.8%
+  - Max Amount: 1000000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Business plan; Bank statement (last 12 months); Tax return documents; Collateral documents
+
+- **MEDICAL Loan**
+  - Interest Rate: 14.0%
+  - Max Amount: 280000.0
+  - Requirements: National ID/Passport; Medical reports/Hospital bills; Doctor's prescription; Income proof; Bank statement
+
+- **PERSONAL Loan**
+  - Interest Rate: 10.8%
+  - Max Amount: 300000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate/Income proof; Bank statement (last 6 months); Employment certificate
+
+- **PERSONAL Loan**
+  - Interest Rate: 9.0%
+  - Max Amount: 300000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate; Bank statement (last 6 months); Employment certificate
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 16.5%
+  - Max Amount: 200000.0
+  - Requirements: National ID/Passport; Property ownership documents; Construction/Renovation estimate; Income proof; Bank statement; Building plan approval
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 11.5%
+  - Max Amount: 500000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements from other banks; Income proof; Bank statement; Credit report
+
+- **VENTURE Loan**
+  - Interest Rate: 10.5%
+  - Max Amount: 500000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Business plan; Bank statement (last 12 months); Tax return documents; Collateral documents
+
+- **PERSONAL Loan**
+  - Interest Rate: 15.5%
+  - Max Amount: 120000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate/Income proof; Bank statement (last 6 months); Employment certificate
+
+- **MEDICAL Loan**
+  - Interest Rate: 9.8%
+  - Max Amount: 700000.0
+  - Requirements: National ID/Passport; Medical reports/Hospital bills; Doctor's prescription; Income proof; Bank statement
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 8.0%
+  - Max Amount: 2500000.0
+  - Requirements: National ID/Passport; Property ownership documents; Construction/Renovation estimate; Income proof; Bank statement; Building plan approval
+
+- **PERSONAL Loan**
+  - Interest Rate: 18.0%
+  - Max Amount: 100000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate/Income proof; Bank statement (last 6 months); Employment certificate
+
+- **EDUCATION Loan**
+  - Interest Rate: 14.0%
+  - Max Amount: 80000.0
+  - Requirements: National ID/Passport; Admission letter from institution; Academic transcripts; Guardian's income proof; Tuition fee structure; Bank statement
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 15.0%
+  - Max Amount: 350000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements from other banks; Income proof; Bank statement; Credit report
+
+- **PERSONAL Loan**
+  - Interest Rate: 9.5%
+  - Max Amount: 150000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate; Bank statement (last 6 months); Employment certificate
+
+- **MEDICAL Loan**
+  - Interest Rate: 11.0%
+  - Max Amount: 400000.0
+  - Requirements: National ID/Passport; Medical reports/Hospital bills; Doctor's prescription; Income proof; Bank statement
+
+- **VENTURE Loan**
+  - Interest Rate: 9.2%
+  - Max Amount: 800000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Business plan; Bank statement (last 12 months); Tax return documents; Collateral documents
+
+- **PERSONAL Loan**
+  - Interest Rate: 16.5%
+  - Max Amount: 150000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate/Income proof; Bank statement (last 6 months); Employment certificate
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 8.5%
+  - Max Amount: 1000000.0
+  - Requirements: National ID/Passport; Property ownership documents; Construction/Renovation estimate; Income proof; Bank statement; Building plan approval
+
+- **EDUCATION Loan**
+  - Interest Rate: 12.0%
+  - Max Amount: 100000.0
+  - Requirements: National ID/Passport; Admission letter from institution; Academic transcripts; Guardian's income proof; Tuition fee structure; Bank statement
+
+- **DEBTCONSOLIDATION Loan**
+  - Interest Rate: 14.5%
+  - Max Amount: 500000.0
+  - Requirements: National ID/Passport; List of existing debts; Loan statements from other banks; Income proof; Bank statement; Credit report
+
+- **PERSONAL Loan**
+  - Interest Rate: 13.0%
+  - Max Amount: 180000.0
+  - Requirements: National ID/Passport; Recent passport-size photos; Salary certificate/Income proof; Bank statement (last 6 months); Employment certificate
+
+- **VENTURE Loan**
+  - Interest Rate: 9.0%
+  - Max Amount: 1200000.0
+  - Requirements: National ID/Passport; Business registration documents; Trade license; Business plan; Bank statement (last 12 months); Tax return documents; Collateral documents
+
+- **MEDICAL Loan**
+  - Interest Rate: 17.0%
+  - Max Amount: 90000.0
+  - Requirements: National ID/Passport; Medical reports/Hospital bills; Doctor's prescription; Income proof; Bank statement
+
+- **HOMEIMPROVEMENT Loan**
+  - Interest Rate: 15.5%
+  - Max Amount: 150000.0
+  - Requirements: National ID/Passport; Property ownership documents; Construction/Renovation estimate; Income proof; Bank statement
+
+- **Home Loan**
+  - Interest Rate: 0.0%
+  - Max Amount: 40000000.0
+  - Requirements: None
+
+- **Home Loan**
+  - Interest Rate: 0.0%
+  - Max Amount: 30000000.0
+  - Requirements: None
+
+- **Education Loan**
+  - Interest Rate: 0.0%
+  - Max Amount: 254500000.0
+  - Requirements: None
+
+## Available Cards
+
+- **Classic Debit (Debit Card)**
+  - Bank: City Bank
+  - Fees: 500 BDT Annual Fee
+  - Features: Local ATM withdrawal, POS transactions, utility bill payment
+  - Limits: ATM: 50,000 BDT/day; POS: 100,000 BDT/day
+
+- **Platinum Debit (Debit Card)**
+  - Bank: Brac Bank
+  - Fees: 1200 BDT Annual Fee
+  - Features: Higher limits, airport lounge access (local), contactless payments
+  - Limits: ATM: 150,000 BDT/day; POS: 300,000 BDT/day
+
+- **Dual Currency Debit (Debit Card)**
+  - Bank: Standard Chartered Bank (SCB)
+  - Fees: 20 USD Annual Fee
+  - Features: Local & International use (Endorsed USD), E-commerce
+  - Limits: Local ATM: 100,000 BDT/day; International ATM: 500 USD/day
+
+- **Student Debit (Debit Card)**
+  - Bank: DBBL
+  - Fees: 300 BDT Annual Fee
+  - Features: Low fees, basic ATM access, applicable for scholarship accounts
+  - Limits: ATM: 20,000 BDT/day; POS: 50,000 BDT/day
+
+- **Corporate Debit (Debit Card)**
+  - Bank: IFIC Bank
+  - Fees: 2500 BDT Annual Fee
+  - Features: Business purchases, high transaction volume, shared limit access
+  - Limits: ATM: 500,000 BDT/day; POS: 1,000,000 BDT/day
+
+- **Gold Credit (Credit Card)**
+  - Bank: Prime Bank
+  - Fees: 2000 BDT Annual Fee (waivable)
+  - Features: Rewards points, 0% EMI facilities, purchase protection
+  - Limits: Credit limit: 150,000 - 500,000 BDT; Cash advance: 50,000 BDT/month
+
+- **Platinum Credit (Credit Card)**
+  - Bank: EBL
+  - Fees: 5000 BDT Annual Fee
+  - Features: Global lounge access (Priority Pass), higher rewards rate, complimentary spouse card
+  - Limits: Credit limit: 500,000 BDT+; Cash advance: 100,000 BDT/month
+
+- **Signature Credit (Credit Card)**
+  - Bank: SCB
+  - Fees: 8000 BDT Annual Fee
+  - Features: Exclusive travel benefits, foreign transactions, concierge service
+  - Limits: Credit limit: 1,000,000 BDT+; Cash advance: 150,000 BDT/month
+
+- **Shariah Compliant Credit (Islamic) (Credit Card)**
+  - Bank: Al-Arafah Islami Bank
+  - Fees: 3000 BDT Annual Fee
+  - Features: Shariah approved, no interest (Qard/Ujrah based), Hajj/Umrah travel benefits
+  - Limits: Credit limit: 200,000 BDT; Cash advance: 0 (Not allowed)
+
+- **Co-branded Credit (Biman) (Credit Card)**
+  - Bank: Mutual Trust Bank (MTB)
+  - Fees: 4500 BDT Annual Fee
+  - Features: Air Miles, priority check-in, exclusive offers on Biman flights
+  - Limits: Credit limit: 300,000 BDT; Cash advance: 60,000 BDT/month
+
+- **Corporate Credit (Credit Card)**
+  - Bank: UCB
+  - Fees: 4000 BDT Annual Fee
+  - Features: Travel & Entertainment (T&E) expenses, expense management reporting
+  - Limits: Shared Corporate Limit: 2,000,000 BDT
+
+- **Travel Prepaid USD (Prepaid Card)**
+  - Bank: Dutch-Bangla Bank (DBBL)
+  - Fees: 5 USD Issuance Fee
+  - Features: Foreign currency holding, globally accepted, secure alternative to cash
+  - Limits: ATM: 500 USD/day; POS: 2,000 USD/day
+
+- **Local Shopping Card (Prepaid Card)**
+  - Bank: Pubali Bank
+  - Fees: 200 BDT Issuance Fee
+  - Features: Reloadable, ideal for online/POS purchases in BDT, budgeting tool
+  - Limits: ATM: 10,000 BDT/day; POS: 50,000 BDT/day
+
+- **Gift Card (Prepaid Card)**
+  - Bank: Southeast Bank
+  - Fees: 150 BDT Issuance Fee
+  - Features: Non-reloadable, fixed balance, perfect for gifting
+  - Limits: POS: Max Balance
+
+- **E-commerce Virtual Card (Virtual Card)**
+  - Bank: Bank Asia
+  - Fees: 100 BDT Annual Fee
+  - Features: Secure online payments, disposable CVV option, low limits
+  - Limits: Online: 10,000 BDT/transaction; Monthly: 50,000 BDT
+
+- **Dual Currency Virtual Card (Virtual Card)**
+  - Bank: AB Bank
+  - Fees: 10 USD Annual Fee
+  - Features: Online international subscription payments (USD endorsed)
+  - Limits: Online: 200 USD/transaction; Monthly: 1,000 USD
+
+- **Traveler's Global Card (Multi-currency Card)**
+  - Bank: MTB
+  - Fees: 1500 BDT Annual Fee
+  - Features: Holds BDT, USD, EUR, GBP; Real-time currency conversion
+  - Limits: ATM: Equivalent of 1,000 USD/day; POS: Equivalent of 5,000 USD/day
+
+- **Hajj/Umrah Card (Multi-currency Card)**
+  - Bank: Islami Bank Bangladesh
+  - Fees: 1000 BDT Issuance Fee
+  - Features: Holds BDT and SAR (Saudi Riyal), specific pilgrimage benefits
+  - Limits: ATM: 5,000 SAR/day; POS: 15,000 SAR/day
+
+- **Business Expense Card (Corporate Card)**
+  - Bank: City Bank
+  - Fees: 7000 BDT Annual Fee
+  - Features: Centralized billing, detailed expense reporting, high spending power
+  - Limits: Customized corporate limit
+
+- **Procurement Card (Corporate Card)**
+  - Bank: DBBL
+  - Fees: 3500 BDT Annual Fee
+  - Features: Streamlined purchasing, vendor payments, specific merchant restrictions
+  - Limits: Transaction limit based on expense category
+
+- **Islamic Gold Credit (Islamic Card)**
+  - Bank: Shahjalal Islami Bank
+  - Fees: 2500 BDT Annual Fee
+  - Features: Shariah compliant mechanism (Murabaha/Ujrah), Takaful benefit
+  - Limits: Credit limit: 100,000 - 400,000 BDT
+
+- **Mudaraba Debit (Islamic Card)**
+  - Bank: Jamuna Bank
+  - Fees: 600 BDT Annual Fee
+  - Features: Shariah approved savings account access, profit sharing basis
+  - Limits: ATM: 60,000 BDT/day; POS: 120,000 BDT/day
+
+- **Priority Debit (Debit Card)**
+  - Bank: One Bank
+  - Fees: 1800 BDT Annual Fee
+  - Features: Zero withdrawal fee at any local ATM, premium support
+  - Limits: ATM: 200,000 BDT/day; POS: 400,000 BDT/day
+
+- **Student Credit Card (Credit Card)**
+  - Bank: IFIC Bank
+  - Fees: 1000 BDT Annual Fee (waived)
+  - Features: Low limit, educational benefits, parental guarantee required
+  - Limits: Credit limit: 10,000 - 50,000 BDT
+
+- **Payroll Card (Prepaid Card)**
+  - Bank: Janata Bank
+  - Fees: 100 BDT Annual Fee
+  - Features: Used for salary disbursement, low maintenance fee
+  - Limits: ATM: 40,000 BDT/day; POS: 80,000 BDT/day
+
+- **Freelancer Card (Multi-currency Card)**
+  - Bank: BRAC Bank
+  - Fees: 20 USD Annual Fee
+  - Features: Receive international payments (USD, EUR), local BDT access
+  - Limits: Withdrawal: 1,500 USD/day; Online: 3,000 USD/day
+
+- **Dual Currency Platinum (Credit Card)**
+  - Bank: UCB
+  - Fees: 6000 BDT Annual Fee
+  - Features: International usage limit, travel rewards, lounge access
+  - Limits: Credit limit: 500,000 BDT; International limit: 5,000 USD
+
+- **International Debit (USD) (Debit Card)**
+  - Bank: EBL
+  - Fees: 15 USD Annual Fee
+  - Features: USD transactions globally, linked to FC account
+  - Limits: ATM: 700 USD/day; POS: 3,000 USD/day
+
+- **Transit Card (Prepaid Card)**
+  - Bank: Dhaka Bank
+  - Fees: 50 BDT Issuance Fee
+  - Features: Contactless payments for public transport (future use), micro-payments
+  - Limits: POS: 5,000 BDT/day; Micro-payment: 500 BDT/transaction
+
+- **Titanium Credit (Credit Card)**
+  - Bank: Standard Bank
+  - Fees: 4000 BDT Annual Fee
+  - Features: High cash withdrawal limit, exclusive dining offers
+  - Limits: Credit limit: 400,000 BDT; Cash advance: 80,000 BDT/month
+
+- **Senior Citizen Debit (Debit Card)**
+  - Bank: Pubali Bank
+  - Fees: 250 BDT Annual Fee
+  - Features: Low maintenance fee, priority queue access at branches
+  - Limits: ATM: 30,000 BDT/day; POS: 60,000 BDT/day
+
+- **Travel Expense Card (Corporate Card)**
+  - Bank: MTB
+  - Fees: 1800 BDT Annual Fee (per card)
+  - Features: For designated travel expenses, fixed per-trip budget
+  - Limits: Limit set per trip/employee
+
+- **Forex Student Card (Prepaid Card)**
+  - Bank: City Bank
+  - Fees: 25 USD Issuance Fee
+  - Features: For educational expenses abroad (Tuition, living), high USD limit
+  - Limits: POS/Online: Max Annual Quota; ATM: 1,000 USD/day
+
+- **Disposable Virtual Card (Virtual Card)**
+  - Bank: Bank Asia
+  - Fees: 50 BDT per issuance
+  - Features: One-time use card for enhanced security, linked to account balance
+  - Limits: Online: 5,000 BDT/transaction; Total life: 5,000 BDT
+
+- **Platinum Islami Credit (Islamic Card)**
+  - Bank: AB Bank
+  - Fees: 4500 BDT Annual Fee
+  - Features: Shariah compliant credit limit, high-tier benefits, Ujrah based
+  - Limits: Credit limit: 500,000 BDT; No cash advance allowed
+
+- **Global Wallet Card (Multi-currency Card)**
+  - Bank: Prime Bank
+  - Fees: 2000 BDT Annual Fee
+  - Features: Supports 5 major currencies, immediate loading via app
+  - Limits: ATM: 1,000 USD equivalent/day; POS: 5,000 USD equivalent/day
+
+- **Women's Classic Credit (Credit Card)**
+  - Bank: BRAC Bank
+  - Fees: 1500 BDT Annual Fee (Free 1st year)
+  - Features: Low fees, lifestyle benefits, retail cashback offers
+  - Limits: Credit limit: 50,000 - 150,000 BDT
+
+- **Foreign Remittance Debit (Debit Card)**
+  - Bank: Sonali Bank
+  - Fees: 400 BDT Annual Fee
+  - Features: Linked to remittance account, accessible to beneficiaries
+  - Limits: ATM: 80,000 BDT/day; POS: 150,000 BDT/day
+
+- **Foreign Exchange Card (Prepaid Card)**
+  - Bank: SCB
+  - Fees: 10 USD Issuance Fee
+  - Features: Preloaded with foreign currency before travel (non-account based)
+  - Limits: ATM: 800 USD/day; Online: 1,500 USD/day
+
+- **Contactless Debit (Debit Card)**
+  - Bank: EBL
+  - Fees: 800 BDT Annual Fee
+  - Features: Tap and go payments, faster checkout
+  - Limits: ATM: 120,000 BDT/day; POS: 250,000 BDT/day
+
+- **Employee Salary Card (Corporate Card)**
+  - Bank: Agrani Bank
+  - Fees: 150 BDT Annual Fee
+  - Features: Mass salary disbursement, restricted access to loans/credit
+  - Limits: ATM: 30,000 BDT/day; POS: 50,000 BDT/day
+
+- **Silver Islami Debit (Islamic Card)**
+  - Bank: Social Islami Bank (SIBL)
+  - Fees: 400 BDT Annual Fee
+  - Features: Wadiah based savings account access, low transaction fees
+  - Limits: ATM: 40,000 BDT/day; POS: 90,000 BDT/day
+
+- **Business Traveler Card (Multi-currency Card)**
+  - Bank: City Bank
+  - Fees: 3000 BDT Annual Fee
+  - Features: Corporate travel expense management in USD/EUR
+  - Limits: ATM: 2,000 USD/day; POS: 8,000 USD/day
+
+- **Entry Level Credit (Secured) (Credit Card)**
+  - Bank: DBBL
+  - Fees: 500 BDT Annual Fee
+  - Features: Guaranteed against Fixed Deposit, easy approval
+  - Limits: Credit limit: 80% of Fixed Deposit amount
+
+- **Mobile Wallet Card (Virtual Card)**
+  - Bank: bKash (Partner Bank)
+  - Fees: Free issuance
+  - Features: Linked to mobile financial service (MFS) wallet, for online/POS use
+  - Limits: Online: 10,000 BDT/transaction; Daily: 50,000 BDT
+
+- **Kids Savings Debit (Debit Card)**
+  - Bank: EBL
+  - Fees: 200 BDT Annual Fee
+  - Features: Low limits, educational features, parental monitoring
+  - Limits: ATM: 5,000 BDT/day; POS: 10,000 BDT/day
+
+- **Travel Rewards Card (Credit Card)**
+  - Bank: Bank Asia
+  - Fees: 4500 BDT Annual Fee
+  - Features: Accelerated rewards on travel spending, complimentary insurance
+  - Limits: Credit limit: 350,000 BDT; Travel Insurance up to 50,000 USD
+
+- **Remittance Prepaid Card (Prepaid Card)**
+  - Bank: IFIC Bank
+  - Fees: 300 BDT Annual Fee
+  - Features: For easy access to foreign remittances without a bank account
+  - Limits: ATM: 30,000 BDT/day; POS: 70,000 BDT/day
+
+- **Premium FCY Card (Multi-currency Card)**
+  - Bank: SCB
+  - Fees: 25 USD Annual Fee
+  - Features: Supports 10 major currencies, dynamic currency conversion control
+  - Limits: ATM: 1,500 USD equivalent/day; POS: 10,000 USD equivalent/day
+
+- **E-Commerce Debit (Debit Card)**
+  - Bank: City Bank
+  - Fees: 600 BDT Annual Fee
+  - Features: Optimized for online shopping, 3D Secure mandatory
+  - Limits: Online: 150,000 BDT/day; POS: 0 (Disabled)
+
+- **Doctors Credit Card (Credit Card)**
+  - Bank: UCB
+  - Fees: 2000 BDT Annual Fee
+  - Features: Special low interest rate for doctors, medical discounts
+  - Limits: Credit limit: 150,000 - 500,000 BDT
+
+- **Hajj/Umrah Credit (Installment) (Islamic Card)**
+  - Bank: Al-Arafah Islami Bank
+  - Fees: 4000 BDT Annual Fee
+  - Features: Allows Hajj/Umrah package payment in interest-free installments
+  - Limits: Limit: Up to 500,000 BDT (for travel only)
+
+- **Fleet Card (Corporate Card)**
+  - Bank: Energy Bank (Fictional)
+  - Fees: 1000 BDT Annual Fee (per vehicle)
+  - Features: Fuel and maintenance purchases only, restricted merchant list
+  - Limits: Limit per vehicle/day: 10,000 BDT
+
+- **Foreign Travel Allowance Card (Prepaid Card)**
+  - Bank: BRAC Bank
+  - Fees: 10 USD Issuance Fee
+  - Features: Used specifically for annual quota utilization, non-reloadable post-travel
+  - Limits: ATM: 700 USD/day; POS: 2,500 USD/day
+
+- **International Subscription Card (Virtual Card)**
+  - Bank: EBL
+  - Fees: 5 USD Annual Fee
+  - Features: For services like Netflix/Spotify/AWS, low USD limit
+  - Limits: Online: 100 USD/transaction
+
+- **Dual Currency Platinum (Debit Card)**
+  - Bank: MTB
+  - Fees: 1500 BDT Annual Fee
+  - Features: High limits, international lounge access (Endorsed USD)
+  - Limits: Local ATM: 200,000 BDT; Int'l ATM: 1,000 USD/day
+
+- **Government Employee Credit (Credit Card)**
+  - Bank: Sonali Bank
+  - Fees: 1000 BDT Annual Fee
+  - Features: Low interest rates, easy installment plans for state employees
+  - Limits: Credit limit: Up to 300,000 BDT
+
+- **Islamic Prepaid Card (Islamic Card)**
+  - Bank: IBBL
+  - Fees: 300 BDT Issuance Fee
+  - Features: Wadiah based, local use, safe way to carry funds
+  - Limits: ATM: 50,000 BDT/day; POS: 100,000 BDT/day
+
+- **MICE Card (Corporate Card)**
+  - Bank: City Bank
+  - Fees: 6000 BDT Annual Fee
+  - Features: For meetings, incentives, conferences, and exhibitions (MICE) expenses
+  - Limits: Event-specific large limits
+
+- **Digital Service Card (Prepaid Card)**
+  - Bank: BRAC Bank
+  - Fees: 15 USD Annual Fee
+  - Features: For marketing spends (Facebook/Google Ads) in USD
+  - Limits: Online: 500 USD/day; Monthly: 5,000 USD
+
+- **SecurePay Virtual Card (Virtual Card)**
+  - Bank: IFIC Bank
+  - Fees: 50 BDT Issuance Fee
+  - Features: Focus on security for unknown online merchants
+  - Limits: Online: 2,000 BDT/transaction; Max: 10,000 BDT
+
+- **Zero Fee Debit (Debit Card)**
+  - Bank: Trust Bank
+  - Fees: 0 BDT Annual Fee (Conditional)
+  - Features: No annual fee if monthly transactions exceed 10
+  - Limits: ATM: 50,000 BDT/day; POS: 100,000 BDT/day
+
+- **Takaful Debit (Islamic Card)**
+  - Bank: Janata Bank
+  - Fees: 500 BDT Annual Fee
+  - Features: Linked to Takaful Savings account, insurance benefit included
+  - Limits: ATM: 70,000 BDT/day; POS: 130,000 BDT/day
+
+- **E-Wallet Global Card (Multi-currency Card)**
+  - Bank: DBBL
+  - Fees: 1000 BDT Annual Fee
+  - Features: Linked to mobile wallet, holds BDT and USD
+  - Limits: Local ATM: 80,000 BDT; Int'l ATM: 400 USD/day
+
+- **Retail Cashback Card (Credit Card)**
+  - Bank: EBL
+  - Fees: 1800 BDT Annual Fee
+  - Features: Up to 5% cashback on groceries and fuel
+  - Limits: Credit limit: 100,000 - 300,000 BDT
+
+- **Pensioner Debit (Debit Card)**
+  - Bank: Rupali Bank
+  - Fees: 300 BDT Annual Fee
+  - Features: Designed for pensioners, low ATM charges
+  - Limits: ATM: 20,000 BDT/day; POS: 40,000 BDT/day
+
+- **Food Voucher Card (Prepaid Card)**
+  - Bank: Standard Bank
+  - Fees: 0 BDT Issuance Fee
+  - Features: Used for meal benefits (corporate clients only), merchant restricted
+  - Limits: POS: 5,000 BDT/day; ATM: 0 (Disabled)
+
+- **Small Business Debit (Corporate Card)**
+  - Bank: Prime Bank
+  - Fees: 800 BDT Annual Fee
+  - Features: For MSMEs, linked to business current account, low fees
+  - Limits: ATM: 100,000 BDT/day; POS: 200,000 BDT/day
+
+- **Silver Islami Credit (Islamic Card)**
+  - Bank: Shahjalal Islami Bank
+  - Fees: 1500 BDT Annual Fee
+  - Features: Basic Shariah compliant credit, lower fees
+  - Limits: Credit limit: 50,000 - 150,000 BDT
+
+- **Tokenized Card (Virtual Card)**
+  - Bank: City Bank
+  - Fees: Free to use
+  - Features: Used for mobile payments (e.g., Apple Pay/Google Pay integration)
+  - Limits: Varies based on linked physical card limit
+
+- **Dual Currency Premium Debit (Debit Card)**
+  - Bank: Brac Bank
+  - Fees: 2000 BDT Annual Fee
+  - Features: High dual currency limits, travel benefits
+  - Limits: Local ATM: 300,000 BDT; Int'l ATM: 1,500 USD/day
+
+- **Movie Rewards Card (Credit Card)**
+  - Bank: LankaBangla Finance (Partner Bank)
+  - Fees: 2500 BDT Annual Fee
+  - Features: Buy one get one free cinema tickets, entertainment discounts
+  - Limits: Credit limit: 150,000 BDT; Cash advance: 30,000 BDT/month
+
+- **Foreign Remittance Prepaid (Prepaid Card)**
+  - Bank: Sonali Bank
+  - Fees: 250 BDT Issuance Fee
+  - Features: Fast access to received remittance funds (non-account based)
+  - Limits: ATM: 50,000 BDT/day; POS: 100,000 BDT/day
+
+- **Student Forex Card (Multi-currency Card)**
+  - Bank: MTB
+  - Fees: 10 USD Issuance Fee
+  - Features: Educational payment focused, higher annual USD limits
+  - Limits: ATM: 500 USD/day; Online: 5,000 USD/day
+
+- **Employee Benefit Card (Corporate Card)**
+  - Bank: UCB
+  - Fees: 1200 BDT Annual Fee (per card)
+  - Features: Used for specific allowances (e.g., medical, education)
+  - Limits: Limit based on allowance amount
+
+- **Gold Islami Debit (Islamic Card)**
+  - Bank: IBBL
+  - Fees: 800 BDT Annual Fee
+  - Features: Higher withdrawal limits, premium Shariah account access
+  - Limits: ATM: 100,000 BDT/day; POS: 200,000 BDT/day
+
+- **Instant Loan Card (Virtual Card)**
+  - Bank: LankaBangla Finance (Partner Bank)
+  - Fees: Varies (Loan Fee)
+  - Features: Virtual card for immediate disbursement of approved personal loans
+  - Limits: Online: Loan Limit
+
+- **Premium Dual Currency (Credit Card)**
+  - Bank: Dhaka Bank
+  - Fees: 9000 BDT Annual Fee
+  - Features: High net worth, significant international spend limit
+  - Limits: Credit limit: 1,200,000 BDT; Int'l limit: 10,000 USD
+
+- **Classic Debit (Debit Card)**
+  - Bank: City Bank
+  - Fees: 500 BDT Annual Fee
+  - Features: Local ATM withdrawal, POS purchase, limited online shopping
+  - Limits: ATM: 50,000/day; POS: 100,000/day
+
+- **Platinum Debit (Debit Card)**
+  - Bank: Standard Chartered Bank
+  - Fees: 1200 BDT Annual Fee
+  - Features: Global usage, higher limits, exclusive merchant discounts
+  - Limits: ATM (Local): 150,000/day; ATM (Int'l): 50,000/day; POS: 300,000/day
+
+- **Basic Debit (Debit Card)**
+  - Bank: BRAC Bank
+  - Fees: 300 BDT Annual Fee
+  - Features: Local ATM and POS transactions, low annual fee
+  - Limits: ATM: 40,000/day; POS: 80,000/day
+
+- **Student Account Debit (Debit Card)**
+  - Bank: Islami Bank Bangladesh Ltd.
+  - Fees: 250 BDT Annual Fee
+  - Features: Local transactions, MFS linking capability
+  - Limits: ATM: 20,000/day; POS: 50,000/day
+
+- **Signature Debit (Debit Card)**
+  - Bank: Dutch-Bangla Bank (DBBL)
+  - Fees: 1500 BDT Annual Fee
+  - Features: Premium features, high withdrawal limits, priority service
+  - Limits: ATM: 200,000/day; POS: 500,000/day
+
+- **Classic Credit (Credit Card)**
+  - Bank: Eastern Bank Ltd. (EBL)
+  - Fees: 1500 BDT Annual Fee
+  - Features: Standard usage, basic rewards program
+  - Limits: Credit limit: 100,000; Cash advance: 20,000/month
+
+- **Gold Credit (Credit Card)**
+  - Bank: Prime Bank
+  - Fees: 2500 BDT Annual Fee (waived on 12 transactions)
+  - Features: Higher limit, EMI facility, travel insurance
+  - Limits: Credit limit: 300,000; Cash advance: 60,000/month
+
+- **Platinum Credit (Credit Card)**
+  - Bank: Bank Asia
+  - Fees: 5000 BDT Annual Fee
+  - Features: Lounge access (local/international), high rewards points, dedicated support
+  - Limits: Credit limit: 800,000; Cash advance: 150,000/month
+
+- **Titanium Credit (Dual Currency) (Credit Card)**
+  - Bank: UCB
+  - Fees: 3000 BDT Annual Fee
+  - Features: Dual currency settlement (BDT/USD), travel benefits, high cashback on international spend
+  - Limits: Credit limit: 500,000; Forex limit: $10,000/year
+
+- **Corporate Credit (Credit Card)**
+  - Bank: Southeast Bank
+  - Fees: 4000 BDT Annual Fee per card
+  - Features: Expense management, higher corporate limits, MIS reporting
+  - Limits: Limit set by company policy; Typical: 1,000,000/month
+
+- **Islamic Gold Credit (Credit Card)**
+  - Bank: Al-Arafah Islami Bank
+  - Fees: 2000 BDT Annual Fee
+  - Features: Shariah-compliant features (no interest), Takaful coverage
+  - Limits: Limit: 250,000 (Based on Mudaraba agreement); Cash Advance: N/A
+
+- **Virtual Shopping Card (Prepaid Card)**
+  - Bank: AB Bank
+  - Fees: 50 BDT Issuance Fee
+  - Features: One-time use virtual card for secure online transactions
+  - Limits: Max load: 10,000 BDT; Single transaction max: 5,000 BDT
+
+- **Student Prepaid (International) (Prepaid Card)**
+  - Bank: Sonali Bank
+  - Fees: 500 BDT Annual Fee
+  - Features: International payments for academic fees and subscriptions (up to $1,000/year)
+  - Limits: Max load: $1,000/year; POS: $300/transaction
+
+- **e-Taka Virtual Card (Virtual Card)**
+  - Bank: Janata Bank
+  - Fees: No Issuance Fee
+  - Features: Secured virtual card for domestic e-commerce only
+  - Limits: 20 BDT Service Charge per transaction
+
+- **Business Expense Card (Corporate Card)**
+  - Bank: National Bank
+  - Fees: 3500 BDT Annual Fee per card
+  - Features: Used for company travel and entertainment, centralized billing
+  - Limits: Company limit: 5,000,000/month; Cardholder limit: 200,000/month
+
+- **Mudarabah Debit Card (Islamic Card)**
+  - Bank: Social Islami Bank Ltd. (SIBL)
+  - Fees: 400 BDT Annual Fee
+  - Features: Debit card linked to Mudarabah savings account
+  - Limits: ATM: 60,000/day; POS: 120,000/day
+
+- **Foreign Currency Debit (USD) (Debit Card)**
+  - Bank: NCC Bank
+  - Fees: 10 USD Annual Fee
+  - Features: Linked to Foreign Currency (FC) account, international use only
+  - Limits: ATM: $1,000/day; POS: $3,000/day
+
+- **Student Credit Card (Credit Card)**
+  - Bank: Shahjalal Islami Bank
+  - Fees: 1000 BDT Annual Fee
+  - Features: Low limit credit card for students (guaranteed by parents)
+  - Limits: Limit: 50,000; Cash advance: N/A
+
+- **Gift Card (Prepaid Card)**
+  - Bank: One Bank
+  - Fees: 100 BDT Issuance Fee
+  - Features: Non-reloadable, ideal for gifting
+  - Limits: Fixed value load (e.g., 2000, 5000, 10000)
+
+- **Contactless Debit (Debit Card)**
+  - Bank: Pubali Bank
+  - Fees: 600 BDT Annual Fee
+  - Features: Fast, secure tap-to-pay transactions (up to 5000 BDT without PIN)
+  - Limits: ATM: 80,000/day; POS: 150,000/day
+
+- **Platinum Dual (International) (Credit Card)**
+  - Bank: IDLC Finance
+  - Fees: 4500 BDT Annual Fee
+  - Features: Dual currency, complimentary airport lounge access (Dhaka), high rewards rate
+  - Limits: Credit Limit: 750,000; Forex Limit: $12,000/year
+
+- **Digital Load Card (Prepaid Card)**
+  - Bank: IPDC Finance
+  - Fees: 3% Load Fee
+  - Features: Virtual card for digital services (Facebook boost, Google ads)
+  - Limits: Max load: 50,000/month; Max transaction: 10,000
+
+- **Co-branded Credit Card (Airline) (Credit Card)**
+  - Bank: Biman Bangladesh Bank
+  - Fees: 6000 BDT Annual Fee
+  - Features: Accelerated rewards miles on Biman tickets, complimentary baggage allowance
+  - Limits: Credit Limit: 600,000; Cash advance: 100,000/month
+
+- **MFS Linked Debit Card (Debit Card)**
+  - Bank: Trust Bank
+  - Fees: 500 BDT Annual Fee
+  - Features: Allows direct withdrawal from MFS wallet via ATM
+  - Limits: ATM (Bank): 50,000/day; ATM (MFS): 25,000/day
+
+- **Secured Credit Card (SCC) (Credit Card)**
+  - Bank: Dhaka Bank
+  - Fees: 1000 BDT Annual Fee
+  - Features: Credit limit secured by a lien on an FDR/DPS
+  - Limits: Limit: 80% of FDR value; Max 500,000
+
+- **Silver Debit Card (Islamic Card)**
+  - Bank: Shahjalal Islami Bank
+  - Fees: 300 BDT Annual Fee
+  - Features: Shariah-compliant debit card with modest limits
+  - Limits: ATM: 30,000/day; POS: 60,000/day
+
+- **Senior Citizen Debit Card (Debit Card)**
+  - Bank: Bank B
+  - Fees: 500 BDT Annual Fee (Free for 65+)
+  - Features: Priority service, higher withdrawal limits for seniors, medical discounts
+  - Limits: ATM: 100,000/day; POS: 200,000/day
+
+- **Zero Annual Fee Card (Credit Card)**
+  - Bank: EBL
+  - Fees: 0 BDT Annual Fee (Conditional)
+  - Features: No annual fee for life if minimum spend condition met
+  - Limits: Credit Limit: 150,000
+
+- **Procurement Card (Corporate Card)**
+  - Bank: Standard Chartered Bank
+  - Fees: 2000 BDT Annual Fee per card
+  - Features: Used specifically for low-value, high-volume B2B purchases
+  - Limits: Limit enforced per transaction (Max 20,000); Monthly 400,000
+
+- **Forex USD Prepaid (Prepaid Card)**
+  - Bank: Prime Bank
+  - Fees: 10 USD Issuance Fee
+  - Features: Dedicated card for B2B forex transactions (e.g., software license)
+  - Limits: Max load: $5,000/month; Max transaction: $1,000
+
+- **Internet Banking Debit (Debit Card)**
+  - Bank: UCB
+  - Fees: 700 BDT Annual Fee
+  - Features: Prioritizes online security and e-commerce use
+  - Limits: ATM: 70,000/day; POS: 150,000/day; Online: 100,000/day
+
+- **Debit Card (Wadiah) (Islamic Card)**
+  - Bank: DBBL Islami Window
+  - Fees: 500 BDT Annual Fee
+  - Features: Debit card linked to Wadiah Current Account
+  - Limits: ATM: 50,000/day; POS: 100,000/day
+
+- **Shadhinota Card (Debit Card)**
+  - Bank: Bangladesh Bank (Conceptual)
+  - Fees: 100 BDT Annual Fee
+  - Features: Low-cost debit card for financial inclusion
+  - Limits: ATM: 10,000/day; POS: 20,000/day
+
+- **Travel Rewards Card (Credit Card)**
+  - Bank: City Bank
+  - Fees: 3500 BDT Annual Fee
+  - Features: Accelerated rewards on travel and dining, complimentary travel insurance
+  - Limits: Limit: 400,000
+
+- **POS Only Debit (Debit Card)**
+  - Bank: Janata Bank
+  - Fees: 300 BDT Annual Fee
+  - Features: No ATM access, strictly for POS machines and online
+  - Limits: POS: 50,000/day; Online: 50,000/day
+
+- **Business Gold Card (Credit Card)**
+  - Bank: Southeast Bank
+  - Fees: 2800 BDT Annual Fee
+  - Features: For small and medium enterprise owners, flexible repayment
+  - Limits: Limit: 500,000
+
+- **Platinum Credit (Takaful) (Islamic Card)**
+  - Bank: Al-Arafah Islami Bank
+  - Fees: 4000 BDT Annual Fee
+  - Features: High limit, Shariah-compliant, enhanced Takaful benefits
+  - Limits: Limit: 600,000 (Based on Bai-Murabaha); Cash Advance: N/A
+
+- **Premium Gold Debit (Debit Card)**
+  - Bank: Prime Bank
+  - Fees: 1000 BDT Annual Fee
+  - Features: Priority service, higher default limits, complimentary concierge
+  - Limits: ATM: 120,000/day; POS: 250,000/day
+
+- **Entry Level Card (Credit Card)**
+  - Bank: DBBL
+  - Fees: 800 BDT Annual Fee
+  - Features: Low barrier to entry for first-time credit card users
+  - Limits: Limit: 50,000
+
+- **Digital Gaming Card (Prepaid Card)**
+  - Bank: City Bank
+  - Fees: 200 BDT Issuance Fee
+  - Features: Virtual card for international gaming subscriptions/purchases
+  - Limits: Max load: $100/month
+
+- **Employee Debit Card (Corporate Card)**
+  - Bank: Pubali Bank
+  - Fees: 300 BDT Annual Fee per card
+  - Features: Linked to corporate current account, used for minor expenses/allowances
+  - Limits: ATM: 10,000/day; POS: 30,000/day
+
+- **UnionPay Platinum Debit (Debit Card)**
+  - Bank: EBL
+  - Fees: 900 BDT Annual Fee
+  - Features: Global acceptance, particularly strong in China and Asia
+  - Limits: ATM: 100,000/day; POS: 200,000/day (Int'l: $500/day)
+
+- **Secured Gold Card (Credit Card)**
+  - Bank: Premier Bank
+  - Fees: 1500 BDT Annual Fee
+  - Features: Secured against 90% of lien amount, competitive interest rate
+  - Limits: Limit: 90% of lien value; Max 1,000,000
+
+- **Digital Savings Debit (Debit Card)**
+  - Bank: Modhumoti Bank
+  - Fees: 650 BDT Annual Fee
+  - Features: Designed for digital savings account users, high online limit
+  - Limits: ATM: 50,000/day; POS: 150,000/day; Online: 120,000/day
+
+- **Rewards Plus Card (Credit Card)**
+  - Bank: NCC Bank
+  - Fees: 2200 BDT Annual Fee
+  - Features: High rewards point accumulation (5x points on specific categories)
+  - Limits: Limit: 350,000
+
+- **Travel & Entertainment Card (Corporate Card)**
+  - Bank: City Bank
+  - Fees: 4000 BDT Annual Fee per card
+  - Features: Centralized billing for T&E, customized spend rules per employee
+  - Limits: Limit customized by employee role; Max monthly: 500,000
+
+- **Silver Credit Card (Murabaha) (Islamic Card)**
+  - Bank: Islami Bank Bangladesh Ltd.
+  - Fees: 1500 BDT Annual Fee
+  - Features: Low limit, Shariah-compliant financing based on Murabaha contract
+  - Limits: Limit: 150,000
+
+- **Disposable Virtual Card (Virtual Card)**
+  - Bank: Bank D
+  - Fees: 10 BDT Issuance Fee
+  - Features: One-time use card for enhanced security against phishing
+  - Limits: Max spend: 2,000 BDT
+
+- **A/C Payee Debit Card (Debit Card)**
+  - Bank: Bangladesh Krishi Bank
+  - Fees: 100 BDT Annual Fee
+  - Features: Debit card for government subsidy disbursement in rural areas
+  - Limits: ATM: 15,000/day; POS: 10,000/day
+
+- **Gold Dual Currency (Credit Card)**
+  - Bank: AB Bank
+  - Fees: 2800 BDT Annual Fee
+  - Features: Dual currency support, high acceptance, global assistance
+  - Limits: Credit Limit: 400,000; Forex Limit: $8,000/year
+
+- **Fuel & Maintenance Card (Corporate Card)**
+  - Bank: Dutch-Bangla Bank (DBBL)
+  - Fees: 800 BDT Annual Fee per card
+  - Features: For managing vehicle-related expenses, linked to specific vehicle IDs
+  - Limits: Limit based on vehicle type (e.g., 20,000/month)
+
+- **Shariah Platinum Debit (Islamic Card)**
+  - Bank: Exim Bank
+  - Fees: 1000 BDT Annual Fee
+  - Features: Premium debit card linked to Shariah savings account, high limits
+  - Limits: ATM: 150,000/day; POS: 300,000/day
+
+- **Travel Assist Debit Card (Debit Card)**
+  - Bank: Mutual Trust Bank (MTB)
+  - Fees: 800 BDT Annual Fee
+  - Features: Enhanced travel features, discounted forex conversion
+  - Limits: ATM: 80,000/day; POS: 180,000/day
+
+- **University Alumni Card (Credit Card)**
+  - Bank: Bank Asia
+  - Fees: 1800 BDT Annual Fee
+  - Features: Co-branded with universities, discounted educational fees, low interest
+  - Limits: Limit: 200,000
+
+- **Forex USD Virtual (Virtual Card)**
+  - Bank: Prime Bank
+  - Fees: 5 USD Annual Fee
+  - Features: Virtual card for small international online subscriptions (USD)
+  - Limits: Max load: $500/year
+
+- **Dual Currency Debit (International) (Debit Card)**
+  - Bank: City Bank
+  - Fees: 1500 BDT Annual Fee
+  - Features: Allows BDT and USD transactions from linked accounts
+  - Limits: ATM (BDT): 100,000; ATM (USD): $1,000/day
+
+- **Signature Dual Currency Card (Credit Card)**
+  - Bank: Standard Chartered Bank
+  - Fees: 7000 BDT Annual Fee
+  - Features: High-end card, priority banking benefits, unlimited lounge access
+  - Limits: Credit Limit: 1,500,000; Forex Limit: $20,000/year
+
+- **Credit Card Supplement (Virtual Card)**
+  - Bank: City Bank
+  - Fees: BDT 0 (Linked to Primary Card)
+  - Features: A virtual replica of the primary credit card for secure online use
+  - Limits: Limit: Shared with primary card
+
+- **Classic Debit Card (Debit Card)**
+  - Bank: DBBL
+  - Fees: 575 BDT annual fee
+  - Features: Local ATM withdrawal, POS purchase, limited online transactions
+  - Limits: ATM: 50,000/day; POS: 150,000/day
+
+- **Platinum Debit Card (Debit Card)**
+  - Bank: EBL
+  - Fees: 1200 BDT annual fee
+  - Features: Higher withdrawal limits, contactless payment, local & international use (endorsement required)
+  - Limits: ATM: 200,000/day; POS: 500,000/day
+
+- **Student Debit Card (Debit Card)**
+  - Bank: BRAC Bank
+  - Fees: 350 BDT annual fee
+  - Features: Low fees, essential banking services, online enrollment
+  - Limits: ATM: 30,000/day; POS: 50,000/day
+
+- **International Dual Currency Debit (Debit Card)**
+  - Bank: City Bank
+  - Fees: 2000 BDT annual fee
+  - Features: Dual currency support (BDT/USD), global ATM access, e-commerce transactions
+  - Limits: BDT ATM: 150,000/day; USD ATM: 500 USD/day
+
+- **UnionPay Classic Debit (Debit Card)**
+  - Bank: UCB
+  - Fees: 400 BDT annual fee
+  - Features: Acceptance in China and major Asian hubs, competitive local fees
+  - Limits: ATM: 80,000/day; POS: 120,000/day
+
+- **Payroll Debit Card (Debit Card)**
+  - Bank: SCB
+  - Fees: 0 (waived by employer)
+  - Features: Dedicated card for salary accounts, free ATM withdrawals at SCB ATMs
+  - Limits: ATM: 100,000/day; POS: 300,000/day
+
+- **Gold Debit Card (Debit Card)**
+  - Bank: MTB
+  - Fees: 950 BDT annual fee
+  - Features: Higher limit for POS, complimentary SMS banking
+  - Limits: ATM: 120,000/day; POS: 400,000/day
+
+- **Senior Citizen Debit (Debit Card)**
+  - Bank: Pubali Bank
+  - Fees: 300 BDT annual fee
+  - Features: Simplified interface, priority service access
+  - Limits: ATM: 40,000/day; POS: 80,000/day
+
+- **Platinum Plus Debit (Debit Card)**
+  - Bank: DBBL
+  - Fees: 1500 BDT annual fee
+  - Features: Highest limits, premium banking services, priority customer support
+  - Limits: ATM: 250,000/day; POS: 750,000/day
+
+- **Dual Currency Platinum Debit (Debit Card)**
+  - Bank: Eastern Bank
+  - Fees: 2500 BDT annual fee
+  - Features: International usage with auto-conversion, travel benefits
+  - Limits: BDT ATM: 200,000/day; USD POS: 1,500 USD/day
+
+- **Classic Plus Debit (Debit Card)**
+  - Bank: Al-Arafah Bank
+  - Fees: 600 BDT annual fee
+  - Features: Standard local transactions, interoperable ATM usage
+  - Limits: ATM: 60,000/day; POS: 100,000/day
+
+- **Co-branded Airline Debit (Debit Card)**
+  - Bank: City Bank
+  - Fees: 1000 BDT annual fee
+  - Features: Reward points on purchases convertible to airline miles
+  - Limits: ATM: 100,000/day; POS: 350,000/day
+
+- **Shariah Compliant Debit (Debit Card)**
+  - Bank: IBBL
+  - Fees: 700 BDT annual fee
+  - Features: Mudaraba based banking, local and Hajj/Umrah transactions
+  - Limits: ATM: 100,000/day; POS: 200,000/day
+
+- **Freelancer Debit Card (Debit Card)**
+  - Bank: Bank Asia
+  - Fees: 850 BDT annual fee
+  - Features: Optimized for online payments and receiving foreign remittances
+  - Limits: ATM: 150,000/day; Online: 100,000/day
+
+- **Travel Enthusiast Debit (Debit Card)**
+  - Bank: SCB
+  - Fees: 1800 BDT annual fee
+  - Features: Zero fee at select international ATMs (partner banks)
+  - Limits: ATM: 180,000/day; POS: 450,000/day
+
+- **Microfinance Debit (Debit Card)**
+  - Bank: Grameen Bank Partner
+  - Fees: 200 BDT annual fee
+  - Features: Basic financial inclusion tool, limited POS network
+  - Limits: ATM: 15,000/day; POS: 30,000/day
+
+- **Platinum Dual Currency (Debit Card)**
+  - Bank: Prime Bank
+  - Fees: 2200 BDT annual fee
+  - Features: High security features, priority customer service
+  - Limits: BDT ATM: 200,000/day; USD POS: 2,000 USD/day
+
+- **Business Debit Card (Debit Card)**
+  - Bank: Standard Bank
+  - Fees: 1000 BDT annual fee
+  - Features: For small business expenses, higher POS limit
+  - Limits: ATM: 150,000/day; POS: 500,000/day
+
+- **Classic Credit Card (Credit Card)**
+  - Bank: EBL
+  - Fees: 1500 BDT annual fee (waived on 18 transactions/year)
+  - Features: Standard revolving credit, minimum interest rate
+  - Limits: Limit: 50,000-150,000 BDT; Cash Advance: 50% of limit
+
+- **Gold Credit Card (Credit Card)**
+  - Bank: City Bank
+  - Fees: 3000 BDT annual fee (waived on 15 transactions/year)
+  - Features: Rewards program, 0% EMI options at select merchants
+  - Limits: Limit: 150,000-400,000 BDT; Cash Advance: 60% of limit
+
+- **Platinum Credit Card (Credit Card)**
+  - Bank: SCB
+  - Fees: 5000 BDT annual fee
+  - Features: Premium lounge access (local), accelerated rewards points
+  - Limits: Limit: 400,000-1,000,000 BDT; Cash Advance: 50% of limit
+
+- **Signature Credit Card (Credit Card)**
+  - Bank: BRAC Bank
+  - Fees: 8000 BDT annual fee
+  - Features: Global acceptance, concierge service, airport pick-up/drop-off
+  - Limits: Limit: 1,000,000+ BDT; Cash Advance: 40% of limit
+
+- **International Gold Credit (Credit Card)**
+  - Bank: EBL
+  - Fees: 3500 BDT annual fee
+  - Features: Dual currency, international transaction capability, travel benefits
+  - Limits: Limit: 300,000 BDT / 5,000 USD; Cash Advance: 50%
+
+- **Co-branded Platinum (Airline) (Credit Card)**
+  - Bank: City Bank
+  - Fees: 6500 BDT annual fee
+  - Features: Direct conversion of points to Biman/US-Bangla miles, discounted tickets
+  - Limits: Limit: 600,000 BDT; Cash Advance: 40%
+
+- **Titanium Credit Card (Credit Card)**
+  - Bank: MTB
+  - Fees: 4000 BDT annual fee
+  - Features: Exclusive deals on fine dining, high cashback rate (1.5%)
+  - Limits: Limit: 500,000-1,200,000 BDT; Cash Advance: 50%
+
+- **Student Credit Card (Credit Card)**
+  - Bank: Trust Bank
+  - Fees: 800 BDT annual fee
+  - Features: Low credit limit designed for students, parental guarantee required
+  - Limits: Limit: 20,000 BDT; Cash Advance: 0%
+
+- **Zero Interest Credit Card (Credit Card)**
+  - Bank: SCB
+  - Fees: 4500 BDT annual fee
+  - Features: Higher interest-free period (up to 50 days), high late payment fee
+  - Limits: Limit: 300,000-800,000 BDT; Cash Advance: 40%
+
+- **UnionPay Platinum Credit (Credit Card)**
+  - Bank: UCB
+  - Fees: 2800 BDT annual fee
+  - Features: Strong merchant acceptance in Asia, competitive international fees
+  - Limits: Limit: 250,000 BDT; Cash Advance: 50%
+
+- **Islamic Gold Credit (Shariah Compliant) (Credit Card)**
+  - Bank: IBBL
+  - Fees: 3200 BDT fixed annual fee
+  - Features: Based on Bai Murabaha concept, fixed fee structure (no interest)
+  - Limits: Limit: 200,000 BDT; Cash Advance: N/A
+
+- **Women's Classic Credit (Credit Card)**
+  - Bank: BRAC Bank
+  - Fees: 1200 BDT annual fee
+  - Features: Special discounts for women's health, beauty, and education
+  - Limits: Limit: 80,000-200,000 BDT; Cash Advance: 50%
+
+- **EMI Focused Gold Card (Credit Card)**
+  - Bank: DBBL
+  - Fees: 2500 BDT annual fee
+  - Features: Low processing fee for converting transactions to EMI (1.5%)
+  - Limits: Limit: 200,000 BDT; Cash Advance: 45%
+
+- **Youth Starter Card (Credit Card)**
+  - Bank: UCB
+  - Fees: 1000 BDT annual fee
+  - Features: Low limit, designed to build credit history quickly
+  - Limits: Limit: 30,000 BDT; Cash Advance: 0%
+
+- **Doctors Professional Card (Credit Card)**
+  - Bank: City Bank
+  - Fees: 4000 BDT annual fee
+  - Features: Specialized benefits for medical professionals, higher limits quickly
+  - Limits: Limit: 500,000 BDT; Cash Advance: 50%
+
+- **Government Employee Credit Card (Credit Card)**
+  - Bank: SCB
+  - Fees: 0-3000 BDT annual fee
+  - Features: Low interest rate (18% APR), waived annual fee based on usage
+  - Limits: Limit: 200,000 BDT; Cash Advance: 60%
+
+- **Secured Credit Card (Credit Card)**
+  - Bank: Trust Bank
+  - Fees: 1000 BDT annual fee
+  - Features: Secured by a Fixed Deposit (FD), guaranteed approval
+  - Limits: Limit: 80% of FD value (Min FD 50,000 BDT); Cash Advance: 0%
+
+- **International Student Credit (Credit Card)**
+  - Bank: BRAC Bank
+  - Fees: 4000 BDT annual fee
+  - Features: For students studying abroad, authorized user of parent's account
+  - Limits: Limit: 1,000 USD monthly; Cash Advance: N/A
+
+- **Corporate Travel Card (Credit Card)**
+  - Bank: MTB
+  - Fees: 7000 BDT annual fee
+  - Features: Enhanced fraud protection for frequent business travel
+  - Limits: Limit: 800,000 BDT; Cash Advance: 40%
+
+- **SME Business Card (Corporate Card)**
+  - Bank: City Bank
+  - Fees: 5000 BDT annual fee
+  - Features: Designed for Small and Medium Enterprises, low fees
+  - Limits: Limit: 200,000 BDT; Cash Advance: 50%
+
+- **Islamic Debit Card (Mudaraba) (Islamic Card)**
+  - Bank: IBBL
+  - Fees: 650 BDT annual fee
+  - Features: Shariah compliant Mudaraba concept, local usage
+  - Limits: ATM: 90,000/day; POS: 180,000/day
+
+- **Hasanah Credit Card (Gold) (Islamic Card)**
+  - Bank: Al-Arafah Bank
+  - Fees: 3000 BDT fixed fee
+  - Features: Based on Qard (interest-free loan) or Ujrah (fee for service)
+  - Limits: Limit: 150,000 BDT; Cash Advance: N/A
+
+- **Silver Shariah Card (Islamic Card)**
+  - Bank: SIBL
+  - Fees: 1800 BDT fixed fee
+  - Features: Lower limit Islamic credit card, tiered fee structure
+  - Limits: Limit: 80,000 BDT; Cash Advance: N/A
+
+- **Platinum Shariah Dual Currency (Islamic Card)**
+  - Bank: IBBL
+  - Fees: 5000 BDT fixed fee
+  - Features: High-limit card for Hajj/Umrah and high-value purchases
+  - Limits: Limit: 800,000 BDT / 4,000 USD; Cash Advance: N/A
+
+- **Corporate Shariah Card (Islamic Card)**
+  - Bank: Al-Arafah Bank
+  - Fees: 8000 BDT fixed fee
+  - Features: Business expenses managed under Islamic principles
+  - Limits: Custom limits 300,000-3,000,000 BDT; Cash Advance: N/A
+
+- **Agri-Business Debit Card (Debit Card)**
+  - Bank: Bangladesh Krishi Bank
+  - Fees: 400 BDT annual fee
+  - Features: For transactions related to farming inputs and sales
+  - Limits: ATM: 30,000/day; POS: 50,000/day
+
+- **E-commerce Only Card (Credit Card)**
+  - Bank: DBBL
+  - Fees: 2000 BDT annual fee
+  - Features: Credit card dedicated only to online purchases (higher security)
+  - Limits: Limit: 150,000 BDT; Cash Advance: 0%
+
+- **Classic Debit (Debit Card)**
+  - Bank: City Bank
+  - Fees: 500 BDT Annual Fee
+  - Features: ATM withdrawal, POS purchase, basic online shopping
+  - Limits: ATM: 50,000 BDT/day; POS: 150,000 BDT/day
+
+- **Platinum Debit (Debit Card)**
+  - Bank: Standard Chartered Bangladesh (SCB)
+  - Fees: 1500 BDT Annual Fee
+  - Features: Higher limits, airport lounge access (local), global acceptance
+  - Limits: ATM: 150,000 BDT/day; POS: 300,000 BDT/day
+
+- **Islamic Debit (Mudaraba) (Debit Card)**
+  - Bank: Islami Bank Bangladesh (IBBL)
+  - Fees: 400 BDT Annual Fee
+  - Features: Shariah-compliant transactions, Hajj travel benefits
+  - Limits: ATM: 40,000 BDT/day; POS: 100,000 BDT/day
+
+- **Student Debit (Debit Card)**
+  - Bank: BRAC Bank
+  - Fees: 250 BDT Annual Fee
+  - Features: Low limits, student discounts, online tuition payments
+  - Limits: ATM: 20,000 BDT/day; POS: 50,000 BDT/day
+
+- **Signature Debit (Debit Card)**
+  - Bank: HSBC Bangladesh
+  - Fees: 2500 BDT Annual Fee
+  - Features: Premium services, high transaction limits, Priority Pass access (Local)
+  - Limits: ATM: 300,000 BDT/day; POS: 500,000 BDT/day
+
+- **Gold Credit (Credit Card)**
+  - Bank: Eastern Bank Ltd (EBL)
+  - Fees: 2000 BDT Annual Fee (waivable)
+  - Features: Rewards points, 0% EMI facility, local airport lounge access
+  - Limits: Credit limit: 200,000 BDT; Cash advance: 50,000 BDT/month
+
+- **Platinum Credit (Credit Card)**
+  - Bank: IFIC Bank
+  - Fees: 3500 BDT Annual Fee
+  - Features: Higher rewards rate, travel benefits, international acceptance
+  - Limits: Credit limit: 500,000 BDT; Cash advance: 100,000 BDT/month
+
+- **Titanium Credit (Credit Card)**
+  - Bank: Dutch-Bangla Bank Ltd (DBBL)
+  - Fees: 1000 BDT Annual Fee (Conditional)
+  - Features: No annual fee for life (conditional), cashback on utilities
+  - Limits: Credit limit: 150,000 BDT; Cash advance: 30,000 BDT/month
+
+- **Amex Gold (Credit Card)**
+  - Bank: Standard Chartered Bangladesh (SCB)
+  - Fees: 5000 BDT Annual Fee
+  - Features: Exclusive dining offers, high reward points earning, global assistance
+  - Limits: Credit limit: 800,000 BDT; Cash advance: 160,000 BDT/month
+
+- **Corporate Credit (Credit Card)**
+  - Bank: Mutual Trust Bank (MTB)
+  - Fees: 5000 BDT Annual Fee (Per card)
+  - Features: Expense management, higher limits, customizable statements
+  - Limits: Credit limit: Negotiable (Company based)
+
+- **Shariah Platinum (Credit Card)**
+  - Bank: Al-Arafah Islami Bank
+  - Fees: 3000 BDT Annual Fee
+  - Features: Shariah-compliant Murabaha structure, Hajj/Umrah travel discounts
+  - Limits: Credit limit: 300,000 BDT; Cash advance: 0 BDT (No cash advance facility)
+
+- **University Credit (Credit Card)**
+  - Bank: United Commercial Bank (UCB)
+  - Fees: 1500 BDT Annual Fee
+  - Features: Low interest rate, designed for university faculty/staff
+  - Limits: Credit limit: 100,000 BDT; Cash advance: 20,000 BDT/month
+
+- **Travel Prepaid USD (Prepaid Card)**
+  - Bank: Prime Bank
+  - Fees: 500 BDT Issuance Fee
+  - Features: Currency exchange convenience, used for international travel endorsement
+  - Limits: Max balance: $12,000/year; ATM: $500/day
+
+- **Online Shopping Card (Prepaid Card)**
+  - Bank: Bank Asia
+  - Fees: 300 BDT Issuance Fee
+  - Features: Secure online transactions, easy reload via app
+  - Limits: Max load: 50,000 BDT; POS/Online: 20,000 BDT/day
+
+- **Student Prepaid (Local) (Prepaid Card)**
+  - Bank: Standard Bank
+  - Fees: 200 BDT Issuance Fee
+  - Features: Budget control, pocket money management
+  - Limits: Max load: 10,000 BDT/month; ATM: 5,000 BDT/day
+
+- **Dual Currency Prepaid (Prepaid Card)**
+  - Bank: Jamuna Bank
+  - Fees: 1000 BDT Issuance Fee
+  - Features: BDT/USD dual wallet, utilized for business endorsements
+  - Limits: BDT ATM: 50,000/day; USD Online: $500/day
+
+- **E-Commerce Virtual Card (Virtual Card)**
+  - Bank: UCB Fintech (Upay/NexusPay)
+  - Fees: 50 BDT Issuance Fee (Per card)
+  - Features: Single use or recurring subscription payments, digital wallet integration
+  - Limits: Max transaction: 10,000 BDT; Max load: 20,000 BDT/month
+
+- **Foreign Purchase Virtual Card (Virtual Card)**
+  - Bank: BRAC Bank (bKash linked)
+  - Fees: 1% Processing Fee (Minimum 10 BDT)
+  - Features: International online payments (limited to BDT equivalent), single token
+  - Limits: Max transaction: 5,000 BDT; Monthly limit: 15,000 BDT
+
+- **Global Travel Card (Multi-currency Card)**
+  - Bank: City Bank
+  - Fees: 2500 BDT Annual Fee
+  - Features: Hold BDT, USD, GBP, EUR; Cross-currency flexibility, airport lounge access
+  - Limits: Total Annual Limit: $15,000; Daily ATM: $1,000 equivalent
+
+- **Hajj/Umrah Multi-Card (Multi-currency Card)**
+  - Bank: IBBL
+  - Fees: 800 BDT Issuance Fee
+  - Features: Shariah compliant, Saudi Riyal/BDT wallets, travel insurance
+  - Limits: SAR limit based on Hajj quota; BDT limit 50,000/day
+
+- **Business Expense Card (Corporate Card)**
+  - Bank: EBL
+  - Fees: 7000 BDT Annual Fee (Per company + 1000/card)
+  - Features: Company expense management, travel & entertainment, centralized billing
+  - Limits: Limits set by Corporate Agreement
+
+- **Procurement Card (Corporate Card)**
+  - Bank: DBBL
+  - Fees: 3000 BDT Annual Fee
+  - Features: For purchasing office supplies, high single transaction limit
+  - Limits: Single transaction limit: 100,000 BDT; Monthly limit: 500,000 BDT
+
+- **Murabaha Gold Credit (Islamic Card)**
+  - Bank: Social Islami Bank (SIBL)
+  - Fees: 2800 BDT Annual Fee
+  - Features: Shariah compliant credit facility, no interest, only fixed fees (Murabaha)
+  - Limits: Credit limit: 250,000 BDT; Cash advance: Not allowed
+
+- **Wadi'ah Debit Card (Islamic Card)**
+  - Bank: EXIM Bank
+  - Fees: 600 BDT Annual Fee
+  - Features: Based on Wadi'ah (safekeeping) contract, basic debit features
+  - Limits: ATM: 60,000 BDT/day; POS: 120,000 BDT/day
+
+- **Visa Signature (Credit Card)**
+  - Bank: AB Bank
+  - Fees: 4000 BDT Annual Fee
+  - Features: Unlimited local lounge access, priority check-in at select hotels
+  - Limits: Credit limit: 1,000,000 BDT; Cash advance: 200,000 BDT/month
+
+- **Foreign Currency Debit (USD) (Debit Card)**
+  - Bank: Rupali Bank
+  - Fees: 10 USD Annual Fee
+  - Features: Directly linked to USD current account, international use only
+  - Limits: ATM: $800/day; POS: $2,000/day
+
+- **Gift Card (Prepaid Card)**
+  - Bank: Mercantile Bank
+  - Fees: 200 BDT Issuance Fee
+  - Features: Non-reloadable, single load card, ideal for gifts
+  - Limits: Max balance: 10,000 BDT; No ATM withdrawal
+
+- **Co-branded Credit Card (Airline) (Credit Card)**
+  - Bank: Biman Bangladesh Bank (Hypothetical)
+  - Fees: 4500 BDT Annual Fee
+  - Features: Airmiles rewards program, free baggage allowance, priority boarding
+  - Limits: Credit limit: 600,000 BDT; Cash advance: 120,000 BDT/month
+
+- **Shariah Platinum (International) (Debit Card)**
+  - Bank: Southeast Bank
+  - Fees: 1800 BDT Annual Fee
+  - Features: Shariah-compliant, high limits, international ATM access
+  - Limits: ATM: 100,000 BDT/day; International: $500/day
+
+- **Secured Credit Card (Credit Card)**
+  - Bank: Trust Bank
+  - Fees: 1000 BDT Annual Fee
+  - Features: Secured by Fixed Deposit (FD) lien, low-interest rate
+  - Limits: Credit limit: 80% of FD amount (Max BDT 5 Lakh)
+
+- **Foreign Exchange Prepaid (EUR) (Prepaid Card)**
+  - Bank: IFIC Bank
+  - Fees: 10 EUR Issuance Fee
+  - Features: Used for Schengen travel, holds EUR balance
+  - Limits: Max load: EUR 10,000; Daily ATM: EUR 500
+
+- **Disposable Card (Virtual Card)**
+  - Bank: Sonali Bank
+  - Fees: Free Issuance
+  - Features: Single-use virtual card for maximum security in one-off payments
+  - Limits: Max transaction: 5,000 BDT; Single use only
+
+- **Fleet Card (Corporate Card)**
+  - Bank: National Bank
+  - Fees: 2000 BDT Annual Fee (Per vehicle)
+  - Features: Fuel purchase management, discounted fuel rates (select stations)
+  - Limits: Limit based on vehicle type and usage estimate
+
+- **Takaful Gold Credit (Islamic Card)**
+  - Bank: Shahjalal Islami Bank
+  - Fees: 3200 BDT Annual Fee
+  - Features: Based on Takaful (mutual guarantee) model, rewards on charitable spending
+  - Limits: Credit limit: 400,000 BDT; Cash advance: 0 BDT
+
+- **UnionPay Gold Debit (Debit Card)**
+  - Bank: DBBL
+  - Fees: 750 BDT Annual Fee
+  - Features: Widespread acceptance in China and Asia, competitive withdrawal rates
+  - Limits: ATM: 80,000 BDT/day; POS: 200,000 BDT/day
+
+- **Visa Classic (Credit Card)**
+  - Bank: Pubali Bank
+  - Fees: 1200 BDT Annual Fee
+  - Features: Basic credit facility, low minimum payment requirement
+  - Limits: Credit limit: 100,000 BDT; Cash advance: 20,000 BDT/month
+
+- **Foreign Student Remittance Card (Prepaid Card)**
+  - Bank: Agrani Bank
+  - Fees: 100 BDT Monthly Fee
+  - Features: Allows foreign students to receive remittances easily, BDT conversion
+  - Limits: Max load: 50,000 BDT/month; ATM: 10,000 BDT/day
+
+- **Business Travel Card (BDT/USD) (Multi-currency Card)**
+  - Bank: MTB
+  - Fees: 1800 BDT Annual Fee
+  - Features: For SMEs managing dual currency expenses
+  - Limits: BDT ATM: 80,000/day; USD POS: $1,500/day
+
+- **Basic Savings Debit (Debit Card)**
+  - Bank: Janata Bank
+  - Fees: 300 BDT Annual Fee
+  - Features: Lowest tier debit card, restricted to local network ATM/POS
+  - Limits: ATM: 30,000 BDT/day; POS: 50,000 BDT/day
+
+- **Doctor's Platinum Credit (Credit Card)**
+  - Bank: BRAC Bank
+  - Fees: 3000 BDT Annual Fee (waived on BDT 1 lakh spend)
+  - Features: Special low-interest rate for doctors, medical insurance benefits
+  - Limits: Credit limit: 700,000 BDT; Cash advance: 140,000 BDT/month
+
+- **Tokenized Card (Virtual Card)**
+  - Bank: EBL (SkyPay)
+  - Fees: Free
+  - Features: Used for secure in-app payments, tokenization service
+  - Limits: Transaction limit based on source account balance
+
+- **Freelancer USD Card (Multi-currency Card)**
+  - Bank: Bank Asia
+  - Fees: 5 USD Issuance Fee
+  - Features: Designed for receiving foreign remittance and spending USD/BDT
+  - Limits: USD Load: Max $5,000/month; ATM BDT: 50,000/day
+
+- **Employee Expense Card (Corporate Card)**
+  - Bank: SCB
+  - Fees: 1500 BDT Annual Fee (Per employee card)
+  - Features: Departmental expense tracking, individual employee limits
+  - Limits: Individual limit set by employer (e.g., BDT 50,000/month)
+
+- **Sadaqah Prepaid Card (Islamic Card)**
+  - Bank: Islami Bank
+  - Fees: 200 BDT Issuance Fee
+  - Features: Dedicated for charitable donations and Zakat payments
+  - Limits: Max balance: 50,000 BDT; POS: 10,000 BDT/day
+
+- **Contactless Debit (Debit Card)**
+  - Bank: City Bank
+  - Fees: 800 BDT Annual Fee
+  - Features: Tap & go payments, enhanced security features
+  - Limits: ATM: 100,000 BDT/day; POS: 250,000 BDT/day (Contactless limit BDT 5000 per transaction)
+
+- **Platinum Dual Currency (Credit Card)**
+  - Bank: EBL
+  - Fees: 4000 BDT Annual Fee
+  - Features: BDT and USD limits on one card, global usage
+  - Limits: BDT Limit: 400,000; USD Limit: $5,000; Cash advance: 20% of limit
+
+- **Game & Subscription Card (Prepaid Card)**
+  - Bank: DBBL
+  - Fees: 150 BDT Issuance Fee
+  - Features: Low load card for gaming subscriptions (Steam, Netflix), no annual fee
+  - Limits: Monthly limit: 5,000 BDT; Online only
+
+- **Mobile Wallet Card (Virtual Card)**
+  - Bank: Nagad/Rocket (Hypothetical Bank)
+  - Fees: Free
+  - Features: Linked to mobile financial services (MFS) wallet balance
+  - Limits: Transaction limit mirrors MFS wallet limits (e.g., 25,000 BDT/day)
+
+- **Travel Rewards Card (Credit Card)**
+  - Bank: MTB
+  - Fees: 3800 BDT Annual Fee
+  - Features: Accelerated rewards on travel bookings, priority boarding
+  - Limits: Credit limit: 650,000 BDT; Cash advance: 130,000 BDT/month
+
+- **Child's Allowance Card (Prepaid Card)**
+  - Bank: BRAC Bank
+  - Fees: 100 BDT Monthly Management Fee
+  - Features: Parental controls, instant load/unload via parent's account
+  - Limits: Limit set by parent (Max BDT 5,000/day)
+
+- **Premium FC Card (Multi-currency Card)**
+  - Bank: HSBC Bangladesh
+  - Fees: 50 USD Annual Fee
+  - Features: For offshore account holders, holds 5 major currencies
+  - Limits: ATM: $2,000/day; POS: $5,000/day
+
+- **Fuel & Maintenance Card (Corporate Card)**
+  - Bank: UCB
+  - Fees: 2500 BDT Annual Fee
+  - Features: Dedicated expense card for vehicle related costs
+  - Limits: Limit customized per vehicle/driver, BDT 30,000/week
+
+- **Hajj Savings Debit Card (Islamic Card)**
+  - Bank: IBBL
+  - Fees: Free
+  - Features: Linked to specific Hajj Savings Scheme account
+  - Limits: ATM: 20,000 BDT/day; POS: 30,000 BDT/day
+
+- **Dual Currency Debit (Debit Card)**
+  - Bank: SCB
+  - Fees: 1000 BDT Annual Fee
+  - Features: Linked to BDT and USD account, international use (BDT conversion)
+  - Limits: BDT ATM: 100,000/day; International ATM: $400/day
+
+- **Business Gold Credit (Credit Card)**
+  - Bank: City Bank
+  - Fees: 4800 BDT Annual Fee
+  - Features: Rewards focused on business purchases, extended payment terms
+  - Limits: Credit limit: 500,000 BDT; Cash advance: 10% of limit
+
+- **Remittance Receiver Card (Prepaid Card)**
+  - Bank: Sonali Bank
+  - Fees: Free
+  - Features: For beneficiaries of international remittances, instant credit
+  - Limits: ATM: 25,000 BDT/day; POS: 40,000 BDT/day
+
+- **Disposable FC Virtual Card (Virtual Card)**
+  - Bank: EBL
+  - Fees: 5 USD Issuance Fee
+  - Features: Single use USD card for specific foreign online purchase
+  - Limits: Max transaction: $500
+
+- **Student Forex Card (Multi-currency Card)**
+  - Bank: Janata Bank
+  - Fees: 15 USD Annual Fee
+  - Features: For students studying abroad, low forex mark-up
+  - Limits: Load limit as per student quota ($5,000-$20,000/year)
+
+- **Employee Salary Card (Corporate Card)**
+  - Bank: Agrani Bank
+  - Fees: Free
+  - Features: Simplified salary disbursement, ATM access across the country
+  - Limits: ATM: 20,000 BDT/day; POS: 50,000 BDT/day
+
+- **Murabaha Corporate Card (Islamic Card)**
+  - Bank: MTB
+  - Fees: 4000 BDT Annual Fee (Per card)
+  - Features: Corporate expenses under Murabaha structure (Islamic financing)
+  - Limits: Limits negotiated based on company size
+
+- **Premium Gold Debit (Debit Card)**
+  - Bank: Trust Bank
+  - Fees: 1200 BDT Annual Fee
+  - Features: Higher limits, free insurance coverage (accidental death)
+  - Limits: ATM: 120,000 BDT/day; POS: 300,000 BDT/day
+
+- **Zero Annual Fee Credit (Credit Card)**
+  - Bank: IFIC Bank
+  - Fees: Free for Life
+  - Features: No annual fee for life without condition, basic features
+  - Limits: Credit limit: 80,000 BDT; Cash advance: 10,000 BDT/month
+
+- **Tourist Prepaid Card (Prepaid Card)**
+  - Bank: City Bank
+  - Fees: 300 BDT Issuance Fee
+  - Features: For incoming tourists to Bangladesh, BDT currency only
+  - Limits: Max load: 200,000 BDT; ATM: 50,000 BDT/day
+
+- **Expat Remittance Card (Multi-currency Card)**
+  - Bank: EBL
+  - Fees: 15 USD Annual Fee
+  - Features: For NRBs sending money to Bangladesh, managed remotely
+  - Limits: Load limit based on NID verification; ATM BDT: 100,000/day
+
+- **Travel Expense USD Card (Corporate Card)**
+  - Bank: IFIC Bank
+  - Fees: 50 USD Issuance Fee
+  - Features: For company employees' foreign travel, pre-loaded USD balance
+  - Limits: Load limit based on company travel quota; ATM: $1,000/day
+
+- **Wadi'ah Gold Debit (Islamic Card)**
+  - Bank: Al-Arafah Islami Bank
+  - Fees: 1000 BDT Annual Fee
+  - Features: High limits, based on safekeeping principle, international acceptance
+  - Limits: ATM: 100,000 BDT/day; POS: 250,000 BDT/day
+
+- **Foreign Student Card (Inbound) (Debit Card)**
+  - Bank: Standard Bank
+  - Fees: 500 BDT Annual Fee
+  - Features: Local usage for foreign students, linked to FC account if applicable
+  - Limits: ATM: 30,000 BDT/day; POS: 70,000 BDT/day
+
+- **Super Platinum Credit (Credit Card)**
+  - Bank: DBBL
+  - Fees: 5500 BDT Annual Fee (Non-waivable)
+  - Features: Highest tier card, dedicated concierge service, unlimited lounge access
+  - Limits: Credit limit: 1,500,000 BDT; Cash advance: 300,000 BDT/month
+
+- **Microfinance Prepaid (Prepaid Card)**
+  - Bank: Palli Sanchay Bank
+  - Fees: 100 BDT Issuance Fee
+  - Features: For rural customers, linking microfinance services to card network
+  - Limits: Max load: 5,000 BDT/day; ATM: 2,000 BDT/day
+
+- **OTT Subscription Card (Virtual Card)**
+  - Bank: UCB Fintech (Upay)
+  - Fees: 10 BDT per month service fee
+  - Features: Specifically for over-the-top media subscriptions (Netflix, Spotify, etc.)
+  - Limits: Monthly Max: 3,000 BDT; Recurring payments only
+
+
+- **bKash Prepaid Card (Prepaid Card)**
+  - Bank: bKash Fintech (Upay)
+  - Fees: 10 BDT per month service fee
+  - Features: Specifically for over-the-top media subscriptions (Netflix, Spotify, etc.)
+  - Limits: Monthly Max: 3,000 BDT; Recurring payments only.
