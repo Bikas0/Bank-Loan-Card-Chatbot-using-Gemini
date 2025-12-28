@@ -1,0 +1,3 @@
+python-dotenv
+faiss-cpu
+google-generativeai

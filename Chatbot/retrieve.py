@@ -10,7 +10,7 @@ from dotenv import load_dotenv
 import google.generativeai as genai
 
 # Embedding client (same as indexing)
-from embed_to_faiss import GeminiEmbeddingClient
+from embedding import GeminiEmbeddingClient
 
 # ===============================
 # LOAD ENV
